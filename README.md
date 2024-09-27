@@ -118,9 +118,11 @@ To enable the functionality of the **Practise Exam** scraper that utilizes *Open
 
    Later on, in your Python scripts, you can access these environment variables using the os module:
    
-   ![alt text](image.png)
+      ![image](https://github.com/user-attachments/assets/05732d74-69ba-4500-9621-d1d611dc2785)
+      
+      ![image](https://github.com/user-attachments/assets/1bef408b-f292-48c1-8e93-ad67dbf7c3f7)
 
-   ![alt text](image-1.png)
+   *this code of OpenAI will automatically read the `OPENAI_API_KEY` from your environment.*
 
 ## Usage
 
