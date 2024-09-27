@@ -96,6 +96,32 @@ With the virtual environment activated, you can now install the required depende
    jupyter kernelspec list
    ```
 
+## Adding API Keys for OpenAI and MathPix (For **Practise Exam**)
+
+To enable the functionality of the **Practise Exam** scraper that utilizes *OpenAI* and *MathPix* APIs, you need to set up your API keys. Follow these steps:
+
+1. **Obtain API Keys**
+   - **OpenAI API Key**: Create an `OPENAI_API_KEY` from your account dashboard at [OpenAI](https://platform.openai.com/settings/profile?tab=api-keys).
+   - **MathPix API Credentials**: Obtain your `MATHPIX_APP_ID` and `MATHPIX_APP_KEY` at [MathPix](https://console.mathpix.com/convert/orgs/learnspot_4be447/apikeys).
+
+2. **Set Environment Variables**
+   
+   **It is recommended to store your API keys as environment variables for security.** You can do this by adding the following lines to your environment configuration file (e.g., `.env` file) or directly in your terminal session:
+
+   ```bash
+   export OPENAI_API_KEY='your_openai_api_key_here'
+   export MATHPIX_APP_ID='your_mathpix_app_id_here'
+   export MATHPIX_APP_KEY='your_mathpix_app_key_here'
+   ```
+
+   Replace `your_openai_api_key_here`, `your_mathpix_app_id_here`, and `your_mathpix_app_key_here` with your actual API keys.
+
+   Later on, in your Python scripts, you can access these environment variables using the os module:
+   
+   ![alt text](image.png)
+
+   ![alt text](image-1.png)
+
 ## Usage
 
 This guide will help you use the Jupyter Notebooks `quiz_scraper.ipynb`/`practise_exam_scraper.ipynb` to read URLs from an input file and process content extraction.
