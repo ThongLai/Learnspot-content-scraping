@@ -38,8 +38,8 @@ Before you begin, ensure you have the following installed on your machine:
 2. **Navigate to the Project Directory**
    Change into the project directory:
       ```bash 
-      [Quizzes] cd quiz_scraper
-      [Practise Exams] cd practise_exam_scraper
+      [Quizzes] cd Learnspot-content-scraping/quiz_scraper
+      [Practise Exams] cd Learnspot-content-scraping/practise_exam_scraper
       ```
       
 ## Creating a Virtual Environment
@@ -67,11 +67,6 @@ To avoid conflicts between packages and maintain a clean workspace, it's recomme
       [Practise Exams] source practise_exam_scraper_env/bin/activate
       ```
    After activation, you should see `(quiz_scraper_env)`/`(practise_exam_scraper_env)` at the beginning of your command prompt. 
-   
-   Change back to the `quiz_scraper`/`practise_exam_scraper_env` working directory using:
-      ```bash
-      cd ../../
-      ```
 
 ## Installing Dependencies
 
