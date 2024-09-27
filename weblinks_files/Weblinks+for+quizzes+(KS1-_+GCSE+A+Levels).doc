@@ -1,0 +1,3141 @@
+Message-ID: <320666945.1.1727399053836@57f49e762742>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_0_1035489739.1727399053819"
+
+------=_Part_0_1035489739.1727399053819
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Weblinks for quizzes (KS1-&gt; GCSE+A Levels)</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Weblinks for quizzes (KS1-&gt; GCSE+A Levels)</h1>
+    <div class=3D"Section1">
+        <p></p>
+<style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1727399053659 {padding: 0px;}
+div.rbtoc1727399053659 ul {list-style: none;margin-left: 0px;}
+div.rbtoc1727399053659 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1727399053659">
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-KS1-year1">KS1 - year=
+ 1</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-English-copythesefile=
+sintoyear2english">English - copy these files into year 2 english</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension">compre=
+hension</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-grammar">grammar</a><=
+/li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-reading">reading</a><=
+/li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary">vocabular=
+y</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-writing">writing</a><=
+/li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Maths">Maths</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtractio=
+n">addition and subtraction</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-geometry">geometry</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivisi=
+on">measurements and division</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-number">number</a></l=
+i>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Science">Science</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghuman=
+s">animals including humans</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-everydaymaterials">ev=
+eryday materials</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-plants">plants</a></l=
+i>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-seasonalchanges">seas=
+onal changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-KS1-year2">KS1 - year=
+ 2</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-English">English</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.1">comp=
+rehension</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.1">grammar</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-reading.1">reading</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.1">vocabul=
+ary</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-writing.1">writing</a=
+></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.1">Maths</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtractio=
+n.1">addition and subtraction</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.1">geometry<=
+/a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivisi=
+on.1">measurements and division</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-number.1">number</a><=
+/li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Science.1">Science</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghuman=
+s.1">animals including humans</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-everydaymaterials.1">=
+everyday materials</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-plants.1">plants</a><=
+/li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-seasonalchanges.1">se=
+asonal changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-KS2-year3">KS2 - year=
+ 3</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-English.1">English</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.2">comp=
+rehension</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.2">grammar</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-reading.2">reading</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.2">vocabul=
+ary</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-writing.2">writing</a=
+></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.2">Maths</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtractio=
+n.2">addition and subtraction</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.2">geometry<=
+/a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivisi=
+on.2">measurements and division</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-number.2">number</a><=
+/li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Science.2">Science</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-livingthingsandhabita=
+ts">living things and habitats</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghuman=
+s.2">animals including humans</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-forcesandmagnets">for=
+ces and magnets</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-light">light</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-plants.2">plants</a><=
+/li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-rocks">rocks</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-KS2-year4">KS2 - year=
+ 4</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-English.2">English</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.3">comp=
+rehension</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.3">grammar</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-reading.3">reading</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.3">vocabul=
+ary</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-writing.3">writing</a=
+></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.3">Maths</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtractio=
+n.3">addition and subtraction</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.3">geometry<=
+/a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivisi=
+on.3">measurements and division</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-number.3">number</a><=
+/li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Science.3">Science</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghuman=
+s.3">animals including humans</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-electricity">electric=
+ity</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-livingthings">living =
+things</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-sound">sound</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-statesofmatter">state=
+s of matter</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-KS2-year5">KS2 - year=
+ 5</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-English.3">English</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.4">comp=
+rehension</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.4">grammar</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-reading.4">reading</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.4">vocabul=
+ary</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-writing.4">writing</a=
+></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.4">Maths</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtractio=
+n.4">addition and subtraction</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.4">geometry<=
+/a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivisi=
+on.4">measurements and division</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-number.4">number</a><=
+/li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Science.4">Science</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghuman=
+s.4">animals including humans</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-earthandspace">earth =
+and space</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-livingthings.1">livin=
+g things</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-propertiesandchangeso=
+fmaterials">properties and changes of materials</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-KS2-year6">KS2 - year=
+ 6</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-English.4">English</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.5">comp=
+rehension</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.5">grammar</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-reading.5">reading</a=
+></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.5">vocabul=
+ary</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-writing.5">writing</a=
+></li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.5">Maths</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtractio=
+n.5">addition and subtraction</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-multiplicationanddivi=
+sion">multiplication and division</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.5">geometry<=
+/a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-measurements">measure=
+ments</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-number.5">number</a><=
+/li>
+</ul></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-Science.5">Science</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-livingthings.2">livin=
+g things</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-electricity.1">electr=
+icity</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghuman=
+s.5">animals including humans</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-evolutionandinheritan=
+ce">evolution and inheritance</a></li>
+<li><a href=3D"#Weblinksforquizzes(KS1->GCSE+ALevels)-light.1">light</a></l=
+i>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<p></p>
+<h1 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-KS1-year1">KS1 - year 1</h1=
+>
+<p>to avoid repetition use education quizzes!</p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-English-copythesefilesintoy=
+ear2english">English - copy these files into year 2 english</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension">comprehensio=
+n</h3>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/comprehension-a-letter-to-the-queen-summer-of-year-1/" rel=3D"nofol=
+low">https://www.educationquizzes.com/ks1/english/comprehension-a-letter-to=
+-the-queen-summer-of-year-1/</a></p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/comprehension-aliens-stole-my-homework-summer-of-year-2/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks1/english/comprehension-aliens-s=
+tole-my-homework-summer-of-year-2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/comprehension-inference/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks1/english/comprehension-inferenc=
+e/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/comprehension-inference/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks1/english/comprehension-inferenc=
+e/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/proverbs/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks1/english/proverbs/</a></p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/reading-fairy-tales-characteristics/" rel=3D"nofollow">https://www.=
+educationquizzes.com/ks1/english/reading-fairy-tales-characteristics/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/reading-fairy-tales-characters/" re=
+l=3D"nofollow">https://www.educationquizzes.com/ks1/english/reading-fairy-t=
+ales-characters/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-grammar">grammar</h3>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/adjectives-1/" rel=3D"nofollow">https://www.educationquizzes.com/ks=
+1/english/adjectives-1/</a></p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/adjectives-2/" rel=3D"nofollow">https://www.educationquizzes.com/ks=
+1/english/adjectives-2/</a></p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/adverbs-1/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/e=
+nglish/adverbs-1/</a></p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/adverbs-2/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/e=
+nglish/adverbs-2/</a></p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/apostrophes-contractions-adding-have-and-had/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks1/english/apostrophes-contractions-adding-h=
+ave-and-had/</a></p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/apostrophes-contractions-adding-not/" rel=3D"nofollow">https://www.=
+educationquizzes.com/ks1/english/apostrophes-contractions-adding-not/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/apostrophes-contractions-adding-wil=
+l-would-and-are/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/eng=
+lish/apostrophes-contractions-adding-will-would-and-are/</a></p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks1/=
+english/apostrophes-plural-possessive-to-proper-nouns-and-nouns/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks1/english/apostrophes-plural-pos=
+sessive-to-proper-nouns-and-nouns/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/apostrophes-singular-possessive-to-=
+nouns/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/apost=
+rophes-singular-possessive-to-nouns/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/apostrophes-singular-possessive-to-=
+proper-nouns/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/englis=
+h/apostrophes-singular-possessive-to-proper-nouns/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/capital-letters-and-full-stops/" re=
+l=3D"nofollow">https://www.educationquizzes.com/ks1/english/capital-letters=
+-and-full-stops/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/capital-letters-and-spellings-of-da=
+ys/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/capital-=
+letters-and-spellings-of-days/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/capital-letters-and-spellings-of-mo=
+nths/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/capita=
+l-letters-and-spellings-of-months/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/capital-letters-for-book-titles/" r=
+el=3D"nofollow">https://www.educationquizzes.com/ks1/english/capital-letter=
+s-for-book-titles/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/capital-letters-for-proper-nouns/" =
+rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/capital-lette=
+rs-for-proper-nouns/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/commas-for-a-list/" rel=3D"nofollow=
+">https://www.educationquizzes.com/ks1/english/commas-for-a-list/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/conjunctions-and-or-but/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks1/english/conjunctions-and-or-bu=
+t/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/connectives/" rel=3D"nofollow">http=
+s://www.educationquizzes.com/ks1/english/connectives/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/exclamation-marks/" rel=3D"nofollow=
+">https://www.educationquizzes.com/ks1/english/exclamation-marks/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/indefinite-articles-a-or-an/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/indefinite-artic=
+les-a-or-an/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/nouns-identifying/" rel=3D"nofollow=
+">https://www.educationquizzes.com/ks1/english/nouns-identifying/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/nouns-singular-and-connective/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/nouns-singular-a=
+nd-connective/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/past-tense-ate-or-eaten/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks1/english/past-tense-ate-or-eate=
+n/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/past-tense-bought-or-brought/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/past-tense-bough=
+t-or-brought/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/past-tense-gave-or-given/" rel=3D"n=
+ofollow">https://www.educationquizzes.com/ks1/english/past-tense-gave-or-gi=
+ven/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/prepositions-1/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks1/english/prepositions-1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/prepositions-2/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks1/english/prepositions-2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/pronouns/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks1/english/pronouns/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/question-marks/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks1/english/question-marks/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/speech-marks/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks1/english/speech-marks/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/tense-adding-ing-and-ed/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks1/english/tense-adding-ing-and-e=
+d/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/verbs/" rel=3D"nofollow">https://ww=
+w.educationquizzes.com/ks1/english/verbs/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/verbs-future-tense/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks1/english/verbs-future-tense/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/verbs-past-tense-adding-ed/" rel=3D=
+"nofollow">https://www.educationquizzes.com/ks1/english/verbs-past-tense-ad=
+ding-ed/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/verbs-past-tense-irregular-1/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/verbs-past-tense=
+-irregular-1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/verbs-past-tense-irregular-2/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/verbs-past-tense=
+-irregular-2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/verbs-past-tense-irregular-3/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/verbs-past-tense=
+-irregular-3/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/verbs-past-tense-was-were/" rel=3D"=
+nofollow">https://www.educationquizzes.com/ks1/english/verbs-past-tense-was=
+-were/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/verbs-present-tense/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/verbs-present-tense/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-01=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-02=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-03=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-03=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-04=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-04/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-05=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-05/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-06=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-06/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-07=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-07/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-08=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-08/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-09=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-09/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-grammar-and-punctuation-10=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-g=
+rammar-and-punctuation-10/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-reading">reading</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/alliteration/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks1/english/alliteration/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/book-titles/" rel=3D"nofollow">http=
+s://www.educationquizzes.com/ks1/english/book-titles/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/fiction-or-non-fiction-texts/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/fiction-or-non-f=
+iction-texts/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/narrative-first-person/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks1/english/narrative-first-person/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/narrative-third-person/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks1/english/narrative-third-person/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/poetry-acrostic-poems/" rel=3D"nofo=
+llow">https://www.educationquizzes.com/ks1/english/poetry-acrostic-poems/</=
+a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/similes/" rel=3D"nofollow">https://=
+www.educationquizzes.com/ks1/english/similes/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-01/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-01/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-02/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-02/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-03/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-03/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-04/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-04/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-05/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-05/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-06/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-06/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-07/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-07/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-08/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-08/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-09/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-09/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-reading-10/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-reading-10/</a></=
+p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary">vocabulary</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/abbreviations-mr-mrs/" rel=3D"nofol=
+low">https://www.educationquizzes.com/ks1/english/abbreviations-mr-mrs/</a>=
+</p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/adjectives-adding-er-and-est/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/adjectives-addin=
+g-er-and-est/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/antonyms/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks1/english/antonyms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/compound-words/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks1/english/compound-words/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/conjunctions/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks1/english/conjunctions/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/dialogue-tags-said-asked-replied/" =
+rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/dialogue-tags=
+-said-asked-replied/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/dialogue-tags-whispered-shouted-exc=
+laimed/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/dial=
+ogue-tags-whispered-shouted-exclaimed/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/homophones-1/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks1/english/homophones-1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/homophones-2/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks1/english/homophones-2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/nouns-collective/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks1/english/nouns-collective/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/nouns-feminine-and-masculine/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/nouns-feminine-a=
+nd-masculine/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/onomatopoeia/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks1/english/onomatopoeia/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/rhyming-words-1/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks1/english/rhyming-words-1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/rhyming-words-2/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks1/english/rhyming-words-2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/question-words/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks1/english/question-words/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/synonyms-1/" rel=3D"nofollow">https=
+://www.educationquizzes.com/ks1/english/synonyms-1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/synonyms-2/" rel=3D"nofollow">https=
+://www.educationquizzes.com/ks1/english/synonyms-2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/vocabulary-occupations/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks1/english/vocabulary-occupations/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/vocabulary-occupations-missing-word=
+s/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/vocabular=
+y-occupations-missing-words/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/writing-guess-the-missing-word/" re=
+l=3D"nofollow">https://www.educationquizzes.com/ks1/english/writing-guess-t=
+he-missing-word/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/writing-guess-the-missing-words/" r=
+el=3D"nofollow">https://www.educationquizzes.com/ks1/english/writing-guess-=
+the-missing-words/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-speaking-and-listening-01/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-sp=
+eaking-and-listening-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-01/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-02/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-03/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-04/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-04/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-05/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-05/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-06/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-06/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-07/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-07/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-08/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-08/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-09/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-09/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-vocabulary-development-10/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/practice-vo=
+cabulary-development-10/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-writing">writing</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/alphabet-upper-and-lower-case-lette=
+rs-1/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/alphab=
+et-upper-and-lower-case-letters-1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/alphabet-upper-and-lower-case-lette=
+rs-2/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/alphab=
+et-upper-and-lower-case-letters-2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/alphabetical-order-words/" rel=3D"n=
+ofollow">https://www.educationquizzes.com/ks1/english/alphabetical-order-wo=
+rds/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/alphabet-upper-and-lower-case-lette=
+rs-3/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/alphab=
+et-upper-and-lower-case-letters-3/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/dates-and-positional-numbers/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks1/english/dates-and-positi=
+onal-numbers/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/letters-consonants/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks1/english/letters-consonants/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/letters-vowels/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks1/english/letters-vowels/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/phonics-digraphs-consonant/" rel=3D=
+"nofollow">https://www.educationquizzes.com/ks1/english/phonics-digraphs-co=
+nsonant/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/phonics-digraphs-vowel/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks1/english/phonics-digraphs-vowel/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/phonics-graphemes-2-3-and-4-letter/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/phonics-gra=
+phemes-2-3-and-4-letter/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/phonics-graphemes-2-letter/" rel=3D=
+"nofollow">https://www.educationquizzes.com/ks1/english/phonics-graphemes-2=
+-letter/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/phonics-phonemes-consonant-and-vowe=
+l/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/phonics-p=
+honemes-consonant-and-vowel/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/phonics-phonemes-consonant/" rel=3D=
+"nofollow">https://www.educationquizzes.com/ks1/english/phonics-phonemes-co=
+nsonant/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/phonics-split-digraphs/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks1/english/phonics-split-digraphs/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/phonics-tri-digraphs/" rel=3D"nofol=
+low">https://www.educationquizzes.com/ks1/english/phonics-tri-digraphs/</a>=
+</p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/sentences-completing/" rel=3D"nofol=
+low">https://www.educationquizzes.com/ks1/english/sentences-completing/</a>=
+</p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/sentences-openers/" rel=3D"nofollow=
+">https://www.educationquizzes.com/ks1/english/sentences-openers/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/syllables/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks1/english/syllables/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/word-order-1/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks1/english/word-order-1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/word-order-2/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks1/english/word-order-2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/word-patterns-categories-odd-one-ou=
+t/" rel=3D"nofollow">https://www.educationquizzes.com/ks1/english/word-patt=
+erns-categories-odd-one-out/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-01/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-01/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-02/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-02/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-03/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-03/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-04/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-04/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-05/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-05/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-06/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-06/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-07/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-07/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-08/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-08/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-09/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-09/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks1/english/practice-writing-10/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks1/english/practice-writing-10/</a></=
+p>
+<p><strong>Uploaded</strong></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Maths">Maths</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtraction">add=
+ition and subtraction</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-geometry">geometry</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivision">me=
+asurements and division</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-number">number</h3>
+<p></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Science">Science</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghumans">ani=
+mals including humans</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-everydaymaterials">everyday=
+ materials</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-plants">plants</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-seasonalchanges">seasonal c=
+hanges</h3>
+<p></p>
+<h1 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-KS1-year2">KS1 - year 2</h1=
+>
+<p>to avoid repetition use education quizzes!</p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-English">English</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.1">comprehens=
+ion</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.1">grammar</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-reading.1">reading</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.1">vocabulary</h=
+3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-writing.1">writing</h3>
+<p></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.1">Maths</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtraction.1">a=
+ddition and subtraction</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.1">geometry</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivision.1">=
+measurements and division</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-number.1">number</h3>
+<p></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Science.1">Science</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghumans.1">a=
+nimals including humans</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-everydaymaterials.1">everyd=
+ay materials</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-plants.1">plants</h3>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-seasonalchanges.1">seasonal=
+ changes</h3>
+<p></p>
+<h1 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-KS2-year3">KS2 - year 3</h1=
+>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-English.1">English</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.2">comprehens=
+ion</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zqs7ywx/articles/z3wgqhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zqs7ywx/articles/z3wgqhv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/zqmyw6f#zjprwsg" rel=3D"n=
+ofollow">https://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/zqmyw6f#zjp=
+rwsg</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/z83q8hv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/z83q8hv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvvxb7h/articles/zpyhtyc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvvxb7h/articles/zpyhtyc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zqs7ywx/articles/zgq8r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zqs7ywx/articles/zgq8r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zdw83j6" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zdw83j6</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-01/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-02/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-03/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/fact-and-opinion/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/fact-and-opinion/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.2">grammar</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/ztndcmn" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/ztndcmn</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/zc773k7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/zc773k7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/zdsthbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/zdsthbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z424xg8/articles/zx9ydxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z424xg8/articles/zx9ydxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/ztcp97h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/ztcp97h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zh4thbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zh4thbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/znfbf82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/znfbf82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z37xrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z37xrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zgsgxfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zgsgxfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsx2b82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsx2b82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zps4pbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zps4pbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zw38srd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zw38srd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zk7cmbk/articles/zcdvp4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zk7cmbk/articles/zcdvp4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsrt4qt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsrt4qt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z3nfw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z3nfw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/capital-letters-01/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/capital-letters-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/capital-letters-02/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/capital-letters-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/apostrophes-to-mark-possession/" re=
+l=3D"nofollow">https://www.educationquizzes.com/ks2/english/apostrophes-to-=
+mark-possession/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/asking-questions/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/asking-questions/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/commas-01/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/commas-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/commas-02/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/commas-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/connectives-conjunctions-01/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/connectives-conj=
+unctions-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/connectives-conjunctions-02/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/connectives-conj=
+unctions-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/direct-speech/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/direct-speech/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/first-second-and-third-person/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/first-second-and=
+-third-person/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/indirect-speech/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks2/english/indirect-speech/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/negatives/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/negatives/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/prepositions/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/prepositions/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/pronouns/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/pronouns/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/punctuation/" rel=3D"nofollow">http=
+s://www.educationquizzes.com/ks2/english/punctuation/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/statement-question-or-command/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/statement-questi=
+on-or-command/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/subject-verb-agreement/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks2/english/subject-verb-agreement/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/syllables/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/syllables/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/their-theyre-and-there/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks2/english/their-theyre-and-there/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/verbs-01/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/verbs-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/verbs-02/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/verbs-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/your-and-youre/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/english/your-and-youre/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-02/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-04/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-04/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-05/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-05/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-07/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-07/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-09/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-09/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-reading.2">reading</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zwmt4qt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zwmt4qt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/z8mqsrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/z8mqsrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zqf32nb" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zqf32nb</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zytbrdm" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zytbrdm</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zjwstrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zjwstrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zg4g7p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zg4g7p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy2m3k7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy2m3k7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zgthrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zgthrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy3sk2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy3sk2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy3g7p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy3g7p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zty8xfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zty8xfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/zgbyw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/zgbyw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z8sf8mn" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z8sf8mn</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z69xfdm" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z69xfdm</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z84p97h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z84p97h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z3btrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z3btrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/ztdvw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/ztdvw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/zs9csk7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/zs9csk7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z4pjs82/articles/z24vjty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z4pjs82/articles/z24vjty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z4pjs82/articles/zx8kng8" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z4pjs82/articles/zx8kng8</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/z2gk9qt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/z2gk9qt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/z8t2v9q" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/z8t2v9q</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/zws9tv4" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/zws9tv4</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/zpsjkty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/zpsjkty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/zsgxqfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/zsgxqfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/zbxgn9q#z4xjtcw" rel=3D"n=
+ofollow">https://www.bbc.co.uk/bitesize/topics/zdxktcw/articles/zbxgn9q#z4x=
+jtcw</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/metaphors/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/metaphors/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/similes/" rel=3D"nofollow">https://=
+www.educationquizzes.com/ks2/english/similes/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-fiction-and-non-fiction-01=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-f=
+iction-and-non-fiction-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-fiction-and-non-fiction-02=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-f=
+iction-and-non-fiction-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-fiction-and-non-fiction-03=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-f=
+iction-and-non-fiction-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-fiction-and-non-fiction-04=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-f=
+iction-and-non-fiction-04/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-fiction-and-non-fiction-05=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-f=
+iction-and-non-fiction-05/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-fiction-and-non-fiction-06=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-f=
+iction-and-non-fiction-06/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-fiction-and-non-fiction-08=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-f=
+iction-and-non-fiction-08/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-fiction-and-non-fiction-09=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-f=
+iction-and-non-fiction-09/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-fiction-and-non-fiction-10=
+/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-f=
+iction-and-non-fiction-10/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-01/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-02/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-03/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-04/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-04/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-05/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-05/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-06/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-06/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-07/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-07/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-08/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-08/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-09/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-09/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-poetry-10/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/practice-poetry-10/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-01/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-01/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-02/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-02/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-03/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-03/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-04/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-04/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-05/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-05/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-06/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-06/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-07/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-07/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-08/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-08/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-09/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-09/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-reading-10/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-reading-10/</a></=
+p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.2">vocabulary</h=
+3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zt27y4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zt27y4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zq4c7p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zq4c7p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/z9tkxfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/z9tkxfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/z8t3g82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/z8t3g82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zw9p8mn" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zw9p8mn</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zp9jkty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zp9jkty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adjectives-01/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/adjectives-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adjectives-02/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/adjectives-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/alliteration/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/alliteration/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/antonyms/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/antonyms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/compound-words/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/english/compound-words/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-01/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-02/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-03/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+3/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/onomatopoeia/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/onomatopoeia/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/rhyme/" rel=3D"nofollow">https://ww=
+w.educationquizzes.com/ks2/english/rhyme/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/synonyms/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/synonyms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-01/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-03/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-08/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-08/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-10/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-10/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-writing.2">writing</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z6dcvwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z6dcvwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zcjfhcw" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zcjfhcw</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zydkg7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zydkg7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zyv4qhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zyv4qhv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z8f3qhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z8f3qhv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z3mktv4" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z3mktv4</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zyq7v9q" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zyq7v9q</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zt932nb" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zt932nb</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z3jpk2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z3jpk2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z7skdxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z7skdxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/z2gnm39" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/z2gnm39</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zqjwcmn" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zqjwcmn</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zcb8k7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zcb8k7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zqcpv9q" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zqcpv9q</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zbxktcw/articles/zsv64qt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zbxktcw/articles/zsv64qt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zbxktcw/articles/z9n73k7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zbxktcw/articles/z9n73k7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/z87t2v4" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/z87t2v4</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zsp8srd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zsp8srd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/ztph97h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/ztph97h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/clauses-and-phrases/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/clauses-and-phrases/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/complex-sentences/" rel=3D"nofollow=
+">https://www.educationquizzes.com/ks2/english/complex-sentences/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/paragraphing/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/paragraphing/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/prefixes/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/prefixes/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/sentence-openers/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/sentence-openers/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-igh/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/spelling-igh/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-le/" rel=3D"nofollow">http=
+s://www.educationquizzes.com/ks2/english/spelling-le/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-or-oor-and-ore-/" rel=3D"n=
+ofollow">https://www.educationquizzes.com/ks2/english/spelling-or-oor-and-o=
+re-/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-ough/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/spelling-ough/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-double-consonants/" rel=3D=
+"nofollow">https://www.educationquizzes.com/ks2/english/spelling-double-con=
+sonants/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-double-consonants/" rel=3D=
+"nofollow">https://www.educationquizzes.com/ks2/english/spelling-double-con=
+sonants/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-ie-or-ei/" rel=3D"nofollow=
+">https://www.educationquizzes.com/ks2/english/spelling-ie-or-ei/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-phonemes/" rel=3D"nofollow=
+">https://www.educationquizzes.com/ks2/english/spelling-phonemes/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-plurals-01/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/spelling-plurals-01/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-plurals-02/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/spelling-plurals-02/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-unstressed-vowels-01/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/spelling-unstres=
+sed-vowels-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-unstressed-vowels-02/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/spelling-unstres=
+sed-vowels-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-w-and-wh/" rel=3D"nofollow=
+">https://www.educationquizzes.com/ks2/english/spelling-w-and-wh/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/spelling-y-and-i/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/spelling-y-and-i/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/suffixes/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/suffixes/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/text-features/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/text-features/</a></p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks2/=
+english/writing-explanations/" rel=3D"nofollow">https://www.educationquizze=
+s.com/ks2/english/writing-explanations/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/writing-instructions/" rel=3D"nofol=
+low">https://www.educationquizzes.com/ks2/english/writing-instructions/</a>=
+</p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/writing-letters/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks2/english/writing-letters/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/writing-narrative/" rel=3D"nofollow=
+">https://www.educationquizzes.com/ks2/english/writing-narrative/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/writing-playscripts/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/writing-playscripts/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/writing-persuasively/" rel=3D"nofol=
+low">https://www.educationquizzes.com/ks2/english/writing-persuasively/</a>=
+</p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/writing-recounts/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/writing-recounts/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/writing-reports/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks2/english/writing-reports/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-writing-01/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-writing-01/</a></=
+p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks2/=
+english/practice-writing-02/" rel=3D"nofollow">https://www.educationquizzes=
+.com/ks2/english/practice-writing-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-writing-03/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-writing-03/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-writing-04/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-writing-04/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-writing-05/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-writing-05/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-writing-06/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-writing-06/</a></=
+p>
+<p><a class=3D"external-link" href=3D"https://www.educationquizzes.com/ks2/=
+english/practice-writing-07/" rel=3D"nofollow">https://www.educationquizzes=
+.com/ks2/english/practice-writing-07/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-writing-08/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-writing-08/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-writing-09/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-writing-09/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-writing-10/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/english/practice-writing-10/</a></=
+p>
+<p><strong>Uploaded</strong></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.2">Maths</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtraction.2">a=
+ddition and subtraction</h3>
+<p><a href=3D"https://learnspot.atlassian.net/wiki/spaces/LE/pages/edit-v2/=
+30310402#addition-and-subtraction.2" rel=3D"nofollow"><strong>Uploaded</str=
+ong></a></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.2">geometry</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivision.2">=
+measurements and division</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-number.2">number</h3>
+<p><strong>Uploaded</strong></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Science.2">Science</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-livingthingsandhabitats">li=
+ving things and habitats</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxvxb7h/articles/z93vdxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxvxb7h/articles/z93vdxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxvxb7h/articles/zcgbjty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxvxb7h/articles/zcgbjty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxvxb7h/articles/zsphrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxvxb7h/articles/zsphrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/habitats-and-ecosystems/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/science/habitats-and-ecosystem=
+s/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghumans.2">a=
+nimals including humans</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z636g2p/articles/zyb9cmn#zqs77yc" rel=3D"n=
+ofollow">https://www.bbc.co.uk/bitesize/topics/z636g2p/articles/zyb9cmn#zqs=
+77yc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z636g2p/articles/ztwcbqt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z636g2p/articles/ztwcbqt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z636g2p/articles/zdytm39" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z636g2p/articles/zdytm39</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z636g2p/articles/zx4vsk7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z636g2p/articles/zx4vsk7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z636g2p/articles/zf284xs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z636g2p/articles/zf284xs</a> <br><a =
+class=3D"external-link" href=3D"https://www.educationquizzes.com/ks2/scienc=
+e/skeletons/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/science=
+/skeletons/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/muscles/" rel=3D"nofollow">https://=
+www.educationquizzes.com/ks2/science/muscles/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-forcesandmagnets">forces an=
+d magnets</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znrp46f/articles/zhj9r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znrp46f/articles/zhj9r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znrp46f/articles/z23ntrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znrp46f/articles/z23ntrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znrp46f/articles/zqxnhcw" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znrp46f/articles/zqxnhcw</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/forces-01/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/science/forces-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/forces-02/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/science/forces-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/forces-03/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/science/forces-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/magnets/" rel=3D"nofollow">https://=
+www.educationquizzes.com/ks2/science/magnets/</a></p>
+<p><strong>Uploade</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-light">light</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmnqfdm/articles/zpnvf82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmnqfdm/articles/zpnvf82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmnqfdm/articles/zy34r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmnqfdm/articles/zy34r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmnqfdm/articles/z9wm7yc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmnqfdm/articles/z9wm7yc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/light/" rel=3D"nofollow">https://ww=
+w.educationquizzes.com/ks2/science/light/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-plants.2">plants</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/z2d4g7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/z2d4g7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/zk43f82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/zk43f82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/z6pvf82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/z6pvf82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/zfxnhcw" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/zfxnhcw</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/zrrk4xs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zqhwnk7/articles/zrrk4xs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/the-parts-of-a-plant/" rel=3D"nofol=
+low">https://www.educationquizzes.com/ks2/science/the-parts-of-a-plant/</a>=
+</p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/plant-reproduction/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/science/plant-reproduction/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/soil/" rel=3D"nofollow">https://www=
+.educationquizzes.com/ks2/science/soil/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-rocks">rocks</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zsghcxs/articles/zgqkcmn" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zsghcxs/articles/zgqkcmn</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zsghcxs/articles/zt3ntrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zsghcxs/articles/zt3ntrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zsghcxs/articles/zgj9r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zsghcxs/articles/zgj9r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/rocks/" rel=3D"nofollow">https://ww=
+w.educationquizzes.com/ks2/science/rocks/</a></p>
+<p><strong>Uploaded</strong></p>
+<h1 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-KS2-year4">KS2 - year 4</h1=
+>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-English.2">English</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.3">comprehens=
+ion</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znm96rd/articles/z4qvn9q" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znm96rd/articles/z4qvn9q</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/zqmyw6f#zjprwsg" rel=3D"n=
+ofollow">https://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/zqmyw6f#zjp=
+rwsg</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/z83q8hv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/z83q8hv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvvxb7h/articles/zpyhtyc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvvxb7h/articles/zpyhtyc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znm96rd/articles/zdd9vwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znm96rd/articles/zdd9vwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zdw83j6" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zdw83j6</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-01/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-02/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-03/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/fact-and-opinion/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/fact-and-opinion/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.3">grammar</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/ztndcmn" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/ztndcmn</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/zc773k7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/zc773k7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/zdsthbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/zdsthbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/ztcp97h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmrp46f/articles/ztcp97h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zh4thbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zh4thbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/znfbf82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/znfbf82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z37xrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z37xrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zgsgxfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zgsgxfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsx2b82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsx2b82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zps4pbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zps4pbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zw38srd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zw38srd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zqk37p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zqk37p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z9wvqhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z9wvqhv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsrt4qt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsrt4qt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z3nfw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z3nfw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zp937p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zp937p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/apostrophes-to-mark-possession/" re=
+l=3D"nofollow">https://www.educationquizzes.com/ks2/english/apostrophes-to-=
+mark-possession/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/asking-questions/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/asking-questions/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/commas-01/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/commas-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/commas-02/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/commas-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/connectives-conjunctions-01/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/connectives-conj=
+unctions-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/connectives-conjunctions-02/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/connectives-conj=
+unctions-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/direct-speech/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/direct-speech/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/first-second-and-third-person/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/first-second-and=
+-third-person/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/indirect-speech/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks2/english/indirect-speech/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/negatives/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/negatives/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/prepositions/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/prepositions/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/pronouns/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/pronouns/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/punctuation/" rel=3D"nofollow">http=
+s://www.educationquizzes.com/ks2/english/punctuation/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/statement-question-or-command/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/statement-questi=
+on-or-command/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/subject-verb-agreement/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks2/english/subject-verb-agreement/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/syllables/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/syllables/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/their-theyre-and-there/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks2/english/their-theyre-and-there/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/verbs-01/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/verbs-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/verbs-02/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/verbs-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/your-and-youre/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/english/your-and-youre/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-02/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-04/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-04/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-05/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-05/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-07/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-07/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-09/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-09/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-reading.3">reading</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zwmt4qt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zwmt4qt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/z8mqsrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/z8mqsrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zqf32nb" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zqf32nb</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zytbrdm" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zytbrdm</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zjwstrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zjwstrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zg4g7p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zg4g7p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy2m3k7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy2m3k7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zgthrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zgthrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy3sk2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy3sk2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy3g7p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zy3g7p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zty8xfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zjvxb7h/articles/zty8xfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/zgbyw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/zgbyw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z8sf8mn" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z8sf8mn</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z69xfdm" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z69xfdm</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z84p97h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z84p97h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z3btrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/z3btrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/ztdvw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/ztdvw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvqr239/articles/zs9csk7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvqr239/articles/zs9csk7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z4pjs82/articles/z24vjty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z4pjs82/articles/z24vjty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z4pjs82/articles/zx8kng8" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z4pjs82/articles/zx8kng8</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.3">vocabulary</h=
+3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zt27y4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zt27y4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zq4c7p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zq4c7p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/z9tkxfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/z9tkxfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/z8t3g82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/z8t3g82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zw9p8mn" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zw9p8mn</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zp9jkty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znkydnb/articles/zp9jkty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adjectives-01/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/adjectives-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adjectives-02/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/adjectives-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/antonyms/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/antonyms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/compound-words/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/english/compound-words/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-01/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-02/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-03/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+3/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/onomatopoeia/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/onomatopoeia/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/rhyme/" rel=3D"nofollow">https://ww=
+w.educationquizzes.com/ks2/english/rhyme/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/synonyms/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/synonyms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-01/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-03/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-08/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-08/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-10/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-10/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-writing.3">writing</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z6dcvwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z6dcvwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zcjfhcw" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zcjfhcw</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zydkg7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zydkg7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zyv4qhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zyv4qhv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z8f3qhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z8f3qhv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z3mktv4" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z3mktv4</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zyq7v9q" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zyq7v9q</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zt932nb" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/zt932nb</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z3jpk2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z3jpk2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z7skdxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxghcxs/articles/z7skdxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/z2gnm39" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/z2gnm39</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zqjwcmn" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zqjwcmn</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zcb8k7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zcb8k7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zqcpv9q" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z236g2p/articles/zqcpv9q</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zbxktcw/articles/zsv64qt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zbxktcw/articles/zsv64qt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zbxktcw/articles/z9n73k7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zbxktcw/articles/z9n73k7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/z87t2v4" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/z87t2v4</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zsp8srd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/zsp8srd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/ztph97h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zf8vwsg/articles/ztph97h</a></p>
+<p><strong>Uploaded</strong></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.3">Maths</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtraction.3">a=
+ddition and subtraction</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.3">geometry</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivision.3">=
+measurements and division</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-number.3">number</h3>
+<p><strong>Uploaded</strong></p>
+<p></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Science.3">Science</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghumans.3">a=
+nimals including humans</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8s7ywx/articles/z8bntrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8s7ywx/articles/z8bntrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8s7ywx/articles/z8784xs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8s7ywx/articles/z8784xs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8s7ywx/articles/zww9r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8s7ywx/articles/zww9r2p</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-electricity">electricity</h=
+3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zsj9r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zsj9r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/z9gk4xs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/z9gk4xs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zhkgvwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zhkgvwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zqgfp4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zqgfp4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/electrical-circuits/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/science/electrical-circuits/</a></=
+p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/electrical-conductors-and-insulator=
+s/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/science/electrica=
+l-conductors-and-insulators/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/energy/" rel=3D"nofollow">https://w=
+ww.educationquizzes.com/ks2/science/energy/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-livingthings">living things=
+</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zyq9r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zyq9r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zdt2jsg" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zdt2jsg</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zp4w8hv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zp4w8hv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zbd4g7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zbd4g7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/ztxwqty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/ztxwqty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/z2rhcj6" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/z2rhcj6</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/z2md82p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/z2md82p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zcgbjty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znd3jfr/articles/zcgbjty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/food-webs/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/science/food-webs/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/classification/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/science/classification/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-sound">sound</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrxktcw/articles/z8s62v4" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrxktcw/articles/z8s62v4</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/z9gk4xs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/z9gk4xs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zhkgvwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zhkgvwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zqgfp4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8nqfdm/articles/zqgfp4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/sound/" rel=3D"nofollow">https://ww=
+w.educationquizzes.com/ks2/science/sound/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-statesofmatter">states of m=
+atter</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdpjs82/articles/zngfp4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdpjs82/articles/zngfp4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdpjs82/articles/zwj9r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdpjs82/articles/zwj9r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdpjs82/articles/z4gfp4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdpjs82/articles/z4gfp4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/solids-liquids-and-gases-01/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/science/solids-liquids-a=
+nd-gases-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/solids-liquids-and-gases-02/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/science/solids-liquids-a=
+nd-gases-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/the-water-cycle/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks2/science/the-water-cycle/</a></p>
+<p><strong>Uploaded</strong></p>
+<h1 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-KS2-year5">KS2 - year 5</h1=
+>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-English.3">English</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.4">comprehens=
+ion</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znm96rd/articles/z4qvn9q" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znm96rd/articles/z4qvn9q</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/zqmyw6f#zjprwsg" rel=3D"n=
+ofollow">https://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/zqmyw6f#zjp=
+rwsg</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/z83q8hv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/z83q8hv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvvxb7h/articles/zpyhtyc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvvxb7h/articles/zpyhtyc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/znm96rd/articles/zdd9vwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/znm96rd/articles/zdd9vwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zdw83j6" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zdw83j6</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-01/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-02/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-03/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/fact-and-opinion/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/fact-and-opinion/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.4">grammar</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zshfdxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zshfdxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zg8gbk7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zg8gbk7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zpgjy4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zpgjy4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/z2yydxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/z2yydxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zkfvgwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zkfvgwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zhpt7yc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zhpt7yc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zh4thbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zh4thbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/znfbf82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/znfbf82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z37xrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z37xrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zgsgxfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zgsgxfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsx2b82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsx2b82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zps4pbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zps4pbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zw38srd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zw38srd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zqk37p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zqk37p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z9wvqhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z9wvqhv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsrt4qt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsrt4qt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z3nfw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z3nfw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zp937p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zp937p3</a></p>
+<p></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/apostrophes-to-mark-possession/" re=
+l=3D"nofollow">https://www.educationquizzes.com/ks2/english/apostrophes-to-=
+mark-possession/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/asking-questions/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/asking-questions/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/commas-01/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/commas-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/commas-02/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/commas-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/connectives-conjunctions-01/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/connectives-conj=
+unctions-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/connectives-conjunctions-02/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/connectives-conj=
+unctions-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/direct-speech/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/direct-speech/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/first-second-and-third-person/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/first-second-and=
+-third-person/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/indirect-speech/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks2/english/indirect-speech/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/negatives/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/negatives/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/prepositions/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/prepositions/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/pronouns/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/pronouns/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/punctuation/" rel=3D"nofollow">http=
+s://www.educationquizzes.com/ks2/english/punctuation/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/statement-question-or-command/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/statement-questi=
+on-or-command/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/subject-verb-agreement/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks2/english/subject-verb-agreement/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/syllables/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/syllables/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/their-theyre-and-there/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks2/english/their-theyre-and-there/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/verbs-01/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/verbs-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/verbs-02/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/verbs-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/your-and-youre/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/english/your-and-youre/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-02/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-04/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-04/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-05/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-05/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-07/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-07/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-09/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-09/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-reading.4">reading</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z2kydnb/articles/zsvjkty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z2kydnb/articles/zsvjkty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z2kydnb/articles/zb2fxbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z2kydnb/articles/zb2fxbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z2kydnb/articles/zbj3sk7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z2kydnb/articles/zbj3sk7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z2kydnb/articles/zs8strd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z2kydnb/articles/zs8strd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/ztxwsrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/ztxwsrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/z9446yc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/z9446yc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/zcxmb82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/zcxmb82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/ztffdxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/ztffdxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zw3yw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zw3yw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zbhwnk7/articles/zjkgn9q" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zbhwnk7/articles/zjkgn9q</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zbhwnk7/articles/z87dg7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zbhwnk7/articles/z87dg7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zbhwnk7/articles/zhw9vwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zbhwnk7/articles/zhw9vwx</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.4">vocabulary</h=
+3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrf2vj6/articles/z8t8pbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrf2vj6/articles/z8t8pbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrf2vj6/articles/zxk7kty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrf2vj6/articles/zxk7kty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adjectives-01/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/adjectives-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adjectives-02/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/adjectives-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adverbs-01/" rel=3D"nofollow">https=
+://www.educationquizzes.com/ks2/english/adverbs-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adverbs-02/" rel=3D"nofollow">https=
+://www.educationquizzes.com/ks2/english/adverbs-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/antonyms/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/antonyms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/compound-words/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/english/compound-words/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-01/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-02/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-03/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+3/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/onomatopoeia/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/onomatopoeia/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/rhyme/" rel=3D"nofollow">https://ww=
+w.educationquizzes.com/ks2/english/rhyme/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/synonyms/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/synonyms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-01/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-03/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-08/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-08/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-10/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-10/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-writing.4">writing</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zsbsxbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zk36g2p/articles/zsbsxbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/z7skdxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/z7skdxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zp7dk7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zp7dk7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zyv4qhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zyv4qhv</a></p>
+<p>=E2=80=8B<strong>Uploaded</strong></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.4">Maths</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtraction.4">a=
+ddition and subtraction</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.4">geometry</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-measurementsanddivision.4">=
+measurements and division</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-number.4">number</h3>
+<p><strong>Uploaded</strong></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Science.4">Science</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghumans.4">a=
+nimals including humans</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zj4skhv/articles/zd3p6g8" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zj4skhv/articles/zd3p6g8</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/growth/" rel=3D"nofollow">https://w=
+ww.educationquizzes.com/ks2/science/growth/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/growth/" rel=3D"nofollow">https://w=
+ww.educationquizzes.com/ks2/science/growth/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/life-processes/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/science/life-processes/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/life-processes-vocabulary/" rel=3D"=
+nofollow">https://www.educationquizzes.com/ks2/science/life-processes-vocab=
+ulary/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-earthandspace">earth and sp=
+ace</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zppmqfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zppmqfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zsnx7yc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zsnx7yc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zbh2jsg" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zbh2jsg</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/z3b3ydm" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/z3b3ydm</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zxycg7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zxycg7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zmycg7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zmycg7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zxdcbqt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zxdcbqt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zn34r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z8vxb7h/articles/zn34r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/the-solar-system/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/science/the-solar-system/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/days-and-seasons/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/science/days-and-seasons/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/earth-moon-and-sun/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/science/earth-moon-and-sun/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-livingthings.1">living thin=
+gs</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zy24xg8/articles/zdvhxbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zy24xg8/articles/zdvhxbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zy24xg8/articles/zsq9r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zy24xg8/articles/zsq9r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrym3qt/articles/ztvntrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrym3qt/articles/ztvntrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/plant-reproduction/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/science/plant-reproduction/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/life-cycles---plants/" rel=3D"nofol=
+low">https://www.educationquizzes.com/ks2/science/life-cycles---plants/</a>=
+</p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/life-cycles---animals/" rel=3D"nofo=
+llow">https://www.educationquizzes.com/ks2/science/life-cycles---animals/</=
+a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-propertiesandchangesofmater=
+ials">properties and changes of materials</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/zk2d96f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/zk2d96f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/zsgfp4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/zsgfp4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/z4bshcw" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/z4bshcw</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/z7dcbqt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/z7dcbqt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/z9jx2v4" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zq4skhv/articles/z9jx2v4</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/mixing-and-dissolving/" rel=3D"nofo=
+llow">https://www.educationquizzes.com/ks2/science/mixing-and-dissolving/</=
+a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/mixtures/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/science/mixtures/</a></p>
+<p><strong>Uploaded</strong></p>
+<h1 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-KS2-year6">KS2 - year 6</h1=
+>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-English.4">English</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-comprehension.5">comprehens=
+ion</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/zqmyw6f#zjprwsg" rel=3D"n=
+ofollow">https://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/zqmyw6f#zjp=
+rwsg</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/z83q8hv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zdd3jfr/articles/z83q8hv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvvxb7h/articles/zpyhtyc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvvxb7h/articles/zpyhtyc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-01/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-02/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/comprehension-03/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/comprehension-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/fact-and-opinion/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/fact-and-opinion/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-grammar.5">grammar</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zshfdxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zshfdxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zg8gbk7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zg8gbk7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zpgjy4j" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zpgjy4j</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/z2yydxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/z2yydxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zkfvgwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zkfvgwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zhpt7yc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zrbtrmn/articles/zhpt7yc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zh4thbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zh4thbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/znfbf82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/znfbf82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z37xrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z37xrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zgsgxfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zgsgxfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsx2b82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsx2b82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zps4pbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zps4pbk</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zw38srd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zw38srd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zqk37p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zqk37p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z9wvqhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z9wvqhv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsrt4qt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zsrt4qt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z3nfw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/z3nfw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zp937p3" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zmwbqyc/articles/zp937p3</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/capital-letters-01/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/capital-letters-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/capital-letters-02/" rel=3D"nofollo=
+w">https://www.educationquizzes.com/ks2/english/capital-letters-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/apostrophes-to-mark-omission/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/apostrophes-to-m=
+ark-omission/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/apostrophes-to-mark-possession/" re=
+l=3D"nofollow">https://www.educationquizzes.com/ks2/english/apostrophes-to-=
+mark-possession/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/asking-questions/" rel=3D"nofollow"=
+>https://www.educationquizzes.com/ks2/english/asking-questions/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/commas-01/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/commas-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/commas-02/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/commas-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/connectives-conjunctions-01/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/connectives-conj=
+unctions-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/connectives-conjunctions-02/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/connectives-conj=
+unctions-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/direct-speech/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/direct-speech/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/first-second-and-third-person/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/first-second-and=
+-third-person/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/indirect-speech/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks2/english/indirect-speech/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/negatives/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/negatives/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/prepositions/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/prepositions/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/pronouns/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/pronouns/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/punctuation/" rel=3D"nofollow">http=
+s://www.educationquizzes.com/ks2/english/punctuation/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/statement-question-or-command/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/english/statement-questi=
+on-or-command/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/subject-verb-agreement/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks2/english/subject-verb-agreement/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/syllables/" rel=3D"nofollow">https:=
+//www.educationquizzes.com/ks2/english/syllables/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/their-theyre-and-there/" rel=3D"nof=
+ollow">https://www.educationquizzes.com/ks2/english/their-theyre-and-there/=
+</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/verbs-01/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/verbs-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/verbs-02/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/verbs-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/your-and-youre/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/english/your-and-youre/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-02/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-04/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-04/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-05/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-05/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-07/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-07/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-09/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-09/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-reading.5">reading</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zkkydnb/articles/zsvjkty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zkkydnb/articles/zsvjkty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/ztxwsrd" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/ztxwsrd</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/z9446yc" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/z9446yc</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/zcxmb82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/zcxmb82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/ztffdxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvym3qt/articles/ztffdxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zcrp46f/articles/zw3yw6f" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zcrp46f/articles/zw3yw6f</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zcrp46f/articles/zdw83j6" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zcrp46f/articles/zdw83j6</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zj8vwsg/articles/z87dg7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zj8vwsg/articles/z87dg7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zj8vwsg/articles/zhw9vwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zj8vwsg/articles/zhw9vwx</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-vocabulary.5">vocabulary</h=
+3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adjectives-01/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/adjectives-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adjectives-02/" rel=3D"nofollow">ht=
+tps://www.educationquizzes.com/ks2/english/adjectives-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adverbs-01/" rel=3D"nofollow">https=
+://www.educationquizzes.com/ks2/english/adverbs-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/adverbs-02/" rel=3D"nofollow">https=
+://www.educationquizzes.com/ks2/english/adverbs-02/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/antonyms/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/antonyms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/compound-words/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/english/compound-words/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-01/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+1/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-02/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+2/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/improving-vocabulary-03/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/english/improving-vocabulary-0=
+3/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/onomatopoeia/" rel=3D"nofollow">htt=
+ps://www.educationquizzes.com/ks2/english/onomatopoeia/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/rhyme/" rel=3D"nofollow">https://ww=
+w.educationquizzes.com/ks2/english/rhyme/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/synonyms/" rel=3D"nofollow">https:/=
+/www.educationquizzes.com/ks2/english/synonyms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-01/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-01/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-03/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-03/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-08/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-08/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/english/practice-vocabulary-and-grammar-10/=
+" rel=3D"nofollow">https://www.educationquizzes.com/ks2/english/practice-vo=
+cabulary-and-grammar-10/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-writing.5">writing</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/z9f2b82" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/z9f2b82</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zp7dk7h" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zp7dk7h</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zyv4qhv" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/zyv4qhv</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/z7skdxs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zvs7ywx/articles/z7skdxs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zwkydnb/articles/zcsyjty" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zwkydnb/articles/zcsyjty</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z99f8p3/articles/z9n73k7" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z99f8p3/articles/z9n73k7</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zkkydnb/articles/z6hvgwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zkkydnb/articles/z6hvgwx</a></p>
+<p><strong>Uploaded</strong></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Maths.5">Maths</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-additionandsubtraction.5">a=
+ddition and subtraction</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-multiplicationanddivision">=
+multiplication and division</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-geometry.5">geometry</h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-measurements">measurements<=
+/h3>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-number.5">number</h3>
+<p><strong>Uploaded</strong></p>
+<p></p>
+<h2 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-Science.5">Science</h2>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-livingthings.2">living thin=
+gs</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z6xktcw/articles/zyt2jsg" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z6xktcw/articles/zyt2jsg</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z6xktcw/articles/zsgk4xs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z6xktcw/articles/zsgk4xs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z6xktcw/articles/zsgtrwx" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z6xktcw/articles/zsgtrwx</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/microorganisms/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/science/microorganisms/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/classification/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/science/classification/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-electricity.1">electricity<=
+/h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z88vwsg/articles/zqryn9q" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z88vwsg/articles/zqryn9q</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z88vwsg/articles/zrd2qfr" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z88vwsg/articles/zrd2qfr</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/thermal-insulators-and-conductors/"=
+ rel=3D"nofollow">https://www.educationquizzes.com/ks2/science/thermal-insu=
+lators-and-conductors/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/electrical-conductors-and-insulator=
+s/" rel=3D"nofollow">https://www.educationquizzes.com/ks2/science/electrica=
+l-conductors-and-insulators/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/electrical-circuits/" rel=3D"nofoll=
+ow">https://www.educationquizzes.com/ks2/science/electrical-circuits/</a></=
+p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-animalsincludinghumans.5">a=
+nimals including humans</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z94skhv/articles/z9w9r2p" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z94skhv/articles/z9w9r2p</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z94skhv/articles/zk784xs" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z94skhv/articles/zk784xs</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/keeping-healthy/" rel=3D"nofollow">=
+https://www.educationquizzes.com/ks2/science/keeping-healthy/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/the-human-circulatory-system/" rel=
+=3D"nofollow">https://www.educationquizzes.com/ks2/science/the-human-circul=
+atory-system/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/the-human-body/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/science/the-human-body/</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/healthy-eating/" rel=3D"nofollow">h=
+ttps://www.educationquizzes.com/ks2/science/healthy-eating/</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-evolutionandinheritance">ev=
+olution and inheritance</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z3ym3qt/articles/ztbshcw" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z3ym3qt/articles/ztbshcw</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z3ym3qt/articles/zxdr3j6" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z3ym3qt/articles/zxdr3j6</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z3ym3qt/articles/zxwcbqt" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z3ym3qt/articles/zxwcbqt</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/z3ym3qt/articles/z4vhxbk" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/z3ym3qt/articles/z4vhxbk</a></p>
+<p><strong>Uploaded</strong></p>
+<h3 id=3D"Weblinksforquizzes(KS1->GCSE+ALevels)-light.1">light</h3>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxm96rd/articles/zrs62v4" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxm96rd/articles/zrs62v4</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.bbc.co.uk/bitesize/topics/zxm96rd/articles/zmn3ydm" rel=3D"nofollow"=
+>https://www.bbc.co.uk/bitesize/topics/zxm96rd/articles/zmn3ydm</a></p>
+<p><a class=3D"external-link" data-card-appearance=3D"inline" href=3D"https=
+://www.educationquizzes.com/ks2/science/shadows-and-reflections/" rel=3D"no=
+follow">https://www.educationquizzes.com/ks2/science/shadows-and-reflection=
+s/</a></p>
+<p><strong>Uploaded</strong></p>
+    </div>
+</body>
+</html>
+------=_Part_0_1035489739.1727399053819--
