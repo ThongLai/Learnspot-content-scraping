@@ -1,8 +1,8 @@
 # Learnspot Content Scraping
-This repository contains a Python tool designed to automatically scrape contents for students from Year 1 to Year 10-11, 11+, and Year 12-13 (A-levels). The scraper extracts quizzes and practice exams from various educational websites using Selenium, Beautiful Soup, LLM models (OpenAI API) and OCR (MathPix API).
+This repository contains a Python tool designed to automatically scrape contents for students from Year 1 to Year 10-11, 11+, and Year 12-13 (A-levels). The scraper extracts quizzes and practise exams from various educational websites using Selenium, Beautiful Soup, LLM models (OpenAI API) and OCR (MathPix API).
 
 ## Features
-- **Scraping Capabilities**: Efficiently scrape quiz data from various sources.
+- **Scraping Capabilities**: Efficiently scrape quizzes/practise exams data from various sources.
 - **Data Storage**: Save scraped data in multiple formats (e.g., CSV, JSON).
 - **Customizable**: Easily modify the scraping logic for different quiz sites.
 - **User-Friendly**: Simple setup and usage instructions.
@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed on your machine:
    Change into the project directory:
       ```bash 
       [Quizzes] cd quiz_scraper
-      [Practice Exams] cd practice_exam_scraper
+      [Practise Exams] cd practise_exam_scraper
       ```
       
 ## Creating a Virtual Environment
@@ -48,10 +48,10 @@ To avoid conflicts between packages and maintain a clean workspace, it's recomme
 
 1. **Create the Virtual Environment**
 
-   Run the following command to create a virtual environment named `quiz_scraper_env`/`practice_exam_scraper_env`:
+   Run the following command to create a virtual environment named `quiz_scraper_env`/`practise_exam_scraper_env`:
       ```bash
       [Quizzes] python -m venv quiz_scraper_env
-      [Practice Exams] python -m venv practice_exam_scraper_env
+      [Practise Exams] python -m venv practise_exam_scraper_env
       ```
 
 2. **Activate the Virtual Environment**
@@ -59,16 +59,16 @@ To avoid conflicts between packages and maintain a clean workspace, it's recomme
    On Windows:
       ```bash 
       [Quizzes] quiz_scraper_env\Scripts\activate
-      [Practice Exams] practice_exam_scraper_env\Scripts\activate
+      [Practise Exams] practise_exam_scraper_env\Scripts\activate
       ```
    On macOS and Linux:
       ```bash 
       [Quizzes] source quiz_scraper_env/bin/activate
-      [Practice Exams] source practice_exam_scraper_env/bin/activate
+      [Practise Exams] source practise_exam_scraper_env/bin/activate
       ```
-   After activation, you should see `(quiz_scraper_env)`/`(practice_exam_scraper_env)` at the beginning of your command prompt. 
+   After activation, you should see `(quiz_scraper_env)`/`(practise_exam_scraper_env)` at the beginning of your command prompt. 
    
-   Change back to the `quiz_scraper`/`practice_exam_scraper_env` working directory using:
+   Change back to the `quiz_scraper`/`practise_exam_scraper_env` working directory using:
       ```bash
       cd ../../
       ```
@@ -79,28 +79,43 @@ With the virtual environment activated, you can now install the required depende
 
 1. **Install Dependencies from `requirements.txt`**
    
-   The `requirements.txt` is in `quiz_scraper` or`practice_exam_scraper_env` directory, ensure you are currently in that working directory.
+   The `requirements.txt` is in `quiz_scraper` or`practise_exam_scraper_env` directory, ensure you are currently in that working directory.
 
    Use the following command to install all the necessary packages:
    ```bash
    pip install -r requirements.txt
    ```
+   
+1. **Add the Jupyter Kernel**
+   
+   After installing the dependencies, you can add the virtual environment as a Jupyter kernel. 
+   
+   Run the following command:
+   ```bash
+   [Quizzes] python -m ipykernel install --name=quiz_scraper_env
+   [Practise Exams] python -m ipykernel install --name=practise_exam_scraper_env
+   ```
+
+   To verify that the kernel has been added successfully, you can list all available Jupyter kernels with:
+   ```bash
+   jupyter kernelspec list
+   ```
 
 ## Usage
 
-This guide will help you use the Jupyter Notebooks `quiz_scraper.ipynb`/`practice_exam_scraper.ipynb` to read URLs from an input file and process content extraction.
+This guide will help you use the Jupyter Notebooks `quiz_scraper.ipynb`/`practise_exam_scraper.ipynb` to read URLs from an input file and process content extraction.
 
 ### Step 1: Open the Jupyter Notebook
 
 - **Launch Jupyter Notebook**
 
-   Open your terminal or command prompt and navigate to the directory containing the `quiz_scraper.ipynb`/`practice_exam_scraper.ipynb` notebooks. Start Jupyter Notebook by running:
+   Open your terminal or command prompt and navigate to the directory containing the `quiz_scraper.ipynb`/`practise_exam_scraper.ipynb` notebooks. Start Jupyter Notebook by running:
    ```bash
    jupyter notebook
    ```
 - **Open the Notebook**
 
-   In the Jupyter interface, click on `quiz_scraper.ipynb` or `practice_exam_scraper.ipynb` to open it.
+   In the Jupyter interface, click on `quiz_scraper.ipynb` or `practise_exam_scraper.ipynb` to open it.
    
 ### Step 2: Prepare the Input File
 
