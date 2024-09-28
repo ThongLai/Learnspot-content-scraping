@@ -159,6 +159,11 @@ This guide will help you use the Jupyter Notebooks `quiz_scraper.ipynb`/`practis
       ```
 ### Step 3: Run the Notebook
 - **Execute All Cells:** Finally, run all the cells and the **Execution** code block in the notebook to complete the scraping process and analyze the results.
+- Code snippets and Expected outputs:
+   - **Quizzes**
+      ![image](https://github.com/user-attachments/assets/71919027-86e8-4007-a26d-337090e82b5a)
+   - **Practise Exams**
+     ![image](https://github.com/user-attachments/assets/d77d6ca3-6661-4c07-84f9-de8643664862)
 
 ## Deactivating the Virtual Environment
 - When you're done working on the project, you can deactivate the virtual environment by running:
