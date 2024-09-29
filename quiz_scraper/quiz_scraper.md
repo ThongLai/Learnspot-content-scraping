@@ -1,4 +1,7 @@
 # **Quiz Scraper Notebook Documentation**
+
+This document serves as a comprehensive guide for the notebook [quiz_scraper.ipynb](https://github.com/ThongLai/Learnspot-content-scraping/blob/main/quiz_scraper/quiz_scraper.ipynb)
+
 ## Table of Contents
 - [Required Packages](#required-packages)
 - [Utility Functions](#utility-functions)
@@ -17,18 +20,18 @@
 - [Math Quiz](#math-quiz)
 - [Cognitoedu](#cognitoedu)
 - [Savemyexams](#savemyexams)
-- [Execute function `extract_quizzes()`](#execute-function-extract_quizzes)
+- [Execution](#execution)
 
 ## Required Packages
 The following packages are required for this project:
 1. **BeautifulSoup** (from bs4): Used for parsing HTML and XML documents.
-2. **pandas**: Used for data manipulation and analysis.
-3. **time**: Provides various time-related functions.
+2. **selenium**: Used for web browser automation.
+3. **pandas**: Used for data manipulation and analysis.
 4. **xlsxwriter**: Used for creating Excel XLSX files.
-5. **selenium**: Used for web browser automation.
+5. **requests**: Used for making HTTP requests.
 6. **json**: Used for working with JSON data.
 7. **re**: Provides support for regular expressions.
-8. **requests**: Used for making HTTP requests.
+8. **time**: Provides various time-related functions.
 
 ## Utility Functions
 
@@ -854,72 +857,78 @@ The `savemyexams` function is designed to scrape quiz data from the Savemyexams 
     ```
 ---
 
-## Execute function `extract_quizzes()`
+## Execution
+This section documents the execution steps involved in extracting quizzes from various sources based on provided URLs.
 
-The `extract_quizzes` function is responsible for extracting quizzes from various educational sources based on the provided URLs. It identifies the source of each URL and calls the appropriate function to handle the quiz extraction.
+### Extract Quizzes Based on the Sources
+This function extracts quizzes from different educational websites based on the provided URLs.
 
-### Parameters
+- **Code**:
+    ```python
+    def extract_quizzes(urls, quiz_data, hide_simulation=True):
+        print(f'{year_group} - {subject} - {sub_topic}')
 
-- **urls** (`list` of `str`): A list of URLs to extract quizzes from.
-- **quiz_data** (`any`): Data related to the quizzes to be processed.
-- **hide_simulation** (`bool`, optional): A flag to determine whether to hide simulation quizzes. Defaults to `True`.
+        open_driver(hide_simulation)
+        for idx, url in enumerate(urls):
+            print(f"{idx+1}) ", end='')
+            if "bbc.co.uk" in url:
+                bbc(url, quiz_data)
+            elif "educationquizzes.com" in url:
+                education_quizzes(url, quiz_data)
+            elif "primrosekitten.org" in url:
+                primrosekitten(url, quiz_data)
+            elif "math-quiz.co.uk" in url:
+                math_quiz(url, quiz_data)
+            elif "cognitoedu.org" in url:
+                cognitoedu(url, quiz_data)
+            elif "savemyexams.com" in url:
+                savemyexams(url, quiz_data)
+            else:
+                print(f" **Error: Did not find any source for {url}")
 
-### Function Logic
+        close_driver()
+    ```
 
-1. **Open Web Driver**:
-   - The function opens a web driver, which is likely used for web scraping or automation:
-     ```python
-     open_driver(hide_simulation)
-     ```
+- **Parameters**:
+    - `urls` (list): A list of URLs to extract quizzes from.
+    - `quiz_data` (list): A list to store the extracted quiz data.
+    - `hide_simulation` (bool, optional): A flag to control the visibility of the browser during extraction. Default is `True`.
 
-2. **Iterate Over URLs**:
-   - The function loops through each URL in the `urls` list:
-     ```python
-     for idx, url in enumerate(urls):
-     ```
+- **Returns**: 
+    - None (the function modifies `quiz_data` in place).
 
-3. **Identify Source and Extract Quizzes**:
-   - For each URL, the function checks which source it belongs to and calls the corresponding function:
-     - **BBC**: 
-       ```python
-       if "bbc.co.uk" in url:
-           bbc(url, quiz_data)
-       ```
-     - **Education Quizzes**: 
-       ```python
-       elif "educationquizzes.com" in url:
-           education_quizzes(url, quiz_data)
-       ```
-     - **Primrose Kitten**: 
-       ```python
-       elif "primrosekitten.org" in url:
-           primrosekitten(url, quiz_data)
-       ```
-     - **Math Quiz**: 
-       ```python
-       elif "math-quiz.co.uk" in url:
-           math_quiz(url, quiz_data)
-       ```
-     - **Cognito Education**: 
-       ```python
-       elif "cognitoedu.org" in url:
-           cognitoedu(url, quiz_data)
-       ```
-     - **Save My Exams**: 
-       ```python
-       elif "savemyexams.com" in url:
-           savemyexams(url, quiz_data)
-       ```
-     - **Error Handling**: 
-       - If the URL does not match any known source, an error message is printed:
-       ```python
-       else:
-           print(f" **Error: Did not find any source for {url}")
-       ```
+#### Behavior:
+1. Prints the current year group, subject, and sub-topic.
+2. Opens a web driver for scraping.
+3. Iterates through the provided URLs:
+    - Calls the appropriate function based on the URL domain to extract quiz data.
+    - Prints an error message if no matching source is found.
+4. Closes the web driver after processing all URLs.
 
-5. **Close Web Driver**:
-   - After processing all URLs, the function closes the web driver:
-     ```python
-     close_driver()
-     ```
+---
+
+### Execution of Quiz Extraction
+This section shows how to execute the quiz extraction process using the `extract_quizzes` function.
+
+- **Code**:
+    ```python
+    year_group, subject, sub_topic, urls = get_urls_from_file()
+    quiz_data = []
+
+    extract_quizzes(urls, quiz_data)
+
+    output_file = f"{sub_topic.lower()} {year_group.lower()} {subject.lower()}.xlsx"
+    save_excel(output_file, quiz_data)
+    ```
+
+- **Returns**: 
+    - An Excel file containing the extracted quiz data.
+
+#### Behavior:
+1. Retrieves the year group, subject, sub-topic, and URLs from the input file using `get_urls_from_file()`.
+2. Initializes an empty list `quiz_data` to store the extracted quizzes.
+3. Calls `extract_quizzes` to populate `quiz_data` with quizzes from the specified URLs.
+4. Constructs an output filename based on the subject, year group, and sub-topic.
+5. Calls `save_excel` to save the extracted quiz data to an Excel file.
+
 ---

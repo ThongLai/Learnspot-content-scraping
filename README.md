@@ -1,14 +1,7 @@
 # Learnspot Content Scraping
-## Description
-This repository contains a Python tool designed to automatically scrape contents for students from Year 1 to Year 10-11, 11+, and Year 12-13 (A-levels). The scraper extracts quizzes and practise exams from various educational websites using Selenium, Beautiful Soup, LLM models (OpenAI API) and OCR (MathPix API).
 
-- [Quizzes](#quizzes)
-- [Practise Exam](#practise-exam)
-- [Pre-defined Attributes](#pre-defined-attributes)
-- [Extracted Attributes](#extracted-attributes)
-- [Additional Attributes for **Practise Exams**](#additional-attributes-for-practise-exams)
-- [Features](#features)
-- [Contributing](#contributing)
+## Description
+This repository contains a Python tool designed to automatically scrape contents for students from Year 1 to Year 10-11, 11+, and Year 12-13 (A-levels). The scraper extracts quizzes and practise exams from various educational websites using Selenium, Beautiful Soup, LLM models (OpenAI API) and OCR (MathPix API). 
 
 ### Quizzes
 - **Purpose**: Extract quiz-type questions from supported online sources.
@@ -22,55 +15,46 @@ This repository contains a Python tool designed to automatically scrape contents
 - **Dependencies**: 
   - Required Packages: `Beautiful Soup`
   - Some websites (e.g., `BBC Bitesize` and `Cognitoedu`) require `Selenium` for simulation purposes.
+- **Documentation**: [Quiz Scraper Notebook Documentation](https://github.com/ThongLai/Learnspot-content-scraping/blob/main/quiz_scraper/quiz_scraper.md)
 
 ### Practise Exam
 - **Purpose**: Extract practise exam questions from PDFs or PDF online URLs. The main current source is [Physics and Maths Tutor](https://www.physicsandmathstutor.com).
 - **Process**: Uses OCR through MathPix APIs to convert PDFs into LaTeX format. The extracted content is then injected into LLM models using OpenAI APIs.
 - **Dependencies**: 
   - Required APIs: `Mathpix`, `OpenAI`
+- **Documentation**: [Practise Exam Scraper Notebook Documentation](https://github.com/ThongLai/Learnspot-content-scraping/blob/main/practise_exam_scraper/practise_exam.md)
 
-### Pre-defined Attributes
-- **Year Group**: The year of the educational material.
-- **Subject**: The academic subject (e.g., Math, Science).
-- **Sub-Topic**: Specific sub-topics within the subject.
 
-### Extracted Attributes
-- **Difficulty**: `easy`/`medium`/`hard` (default is `easy` for sources without difficulty data).
-- **Type of Question**: `MCQ`, `TextEntry`, `Order`, `TapAndFind` (for Quizzes); `Practise Exam` (for Practise Exam extraction).
-- **Question Title**: The title of the question.
-- **Images**: Any images associated with the question.
-- **Options**: The answer options (some questions may not have options).
-- **Answer**: The correct answer to the question.
-- **Source**: For internal use only.
-- **Mark**: Default is `1` for sources without mark data.
-- **Other Text**: Additional explanations or context for the question.
+### Data Attributes
+   1. Pre-defined Attributes
+      - **Year Group**: The year of the educational material.
+      - **Subject**: The academic subject (e.g., Math, Science).
+      - **Sub-Topic**: Specific sub-topics within the subject.
 
-### Additional Attributes for **Practise Exams**
-- **ID**: A unique identifier for each question, based on the question number and parent question.
-- **Parent_ID**: Sub-question IDs, assigned based on the parent question (e.g., `1a`, `1b`).
-- **Mark Scheme**: The marking scheme, if available.
+   2. Extracted Attributes
+      - **Difficulty**: `easy`/`medium`/`hard` (default is `easy` for sources without difficulty data).
+      - **Type of Question**: `MCQ`, `TextEntry`, `Order`, `TapAndFind` (for Quizzes); `Practise Exam` (for Practise Exam extraction).
+      - **Question Title**: The title of the question.
+      - **Images**: Any images associated with the question.
+      - **Options**: The answer options (some questions may not have options).
+      - **Answer**: The correct answer to the question.
+      - **Source**: For internal use only.
+      - **Mark**: Default is `1` for sources without mark data.
+      - **Other Text**: Additional explanations or context for the question.
+
+   3. Additional Attributes for *Practise Exams*
+      - **ID**: A unique identifier for each question, based on the question number and parent question.
+      - **Parent_ID**: Sub-question IDs, assigned based on the parent question (e.g., `1a`, `1b`).
+      - **Mark Scheme**: The marking scheme, if available.
 
 ### Features
 - **Scraping Capabilities**: Efficiently scrape quiz and practise exam data from various sources, including complex web pages requiring `Selenium`.
 - **Customizable**: Scraping logic can be easily modified to support additional websites or adapt to changes in the site structure.
 - **OCR Integration**: Extract text from PDFs using MathPix APIs and convert it into LaTeX format.
 - **LLM Integration**: Uses OpenAI APIs to process and refine question-and-answer content.
-
-### Contributing
-Here's how you can contribute:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-Ensure your code adheres to the coding standards and include appropriate tests for new features.
-
-For major changes, please open an issue first to discuss what you would like to change.
-
 ---
-# Installation Instructions
+
+## Installation Instructions
 This README will guide you through the process of setting up the project, creating a virtual environment, and installing the necessary dependencies using `requirements.txt`.
 
 - [Prerequisites](#prerequisites)
@@ -80,14 +64,12 @@ This README will guide you through the process of setting up the project, creati
 - [Usage](#usage)
 - [Deactivating the Virtual Environment](#deactivating-the-virtual-environment)
 
-## Prerequisites
+### Prerequisites
 Before you begin, ensure you have the following installed on your machine:
 - **Python 3.x**
 - **pip** (Python package installer)
 
-
-
-## Setting Up the Project
+### Setting Up the Project
 
 1. **Clone the Repository**
 
@@ -103,7 +85,7 @@ Before you begin, ensure you have the following installed on your machine:
       [Practise Exams] cd Learnspot-content-scraping/practise_exam_scraper
       ```
       
-## Creating a Virtual Environment
+### Creating a Virtual Environment
 
 To avoid conflicts between packages and maintain a clean workspace, it's recommended to create a virtual environment. Follow these steps:
 
@@ -129,7 +111,7 @@ To avoid conflicts between packages and maintain a clean workspace, it's recomme
       ```
    After activation, you should see `(quiz_scraper_env)`/`(practise_exam_scraper_env)` at the beginning of your command prompt. 
 
-## Installing Dependencies
+### Installing Dependencies
 
 With the virtual environment activated, you can now install the required dependencies.
 
@@ -157,7 +139,7 @@ With the virtual environment activated, you can now install the required depende
    jupyter kernelspec list
    ```
 
-## Adding API Keys for OpenAI and MathPix (For **Practise Exam**)
+### Adding API Keys for OpenAI and MathPix (For **Practise Exam**)
 
 To enable the functionality of the **Practise Exam** scraper that utilizes *OpenAI* and *MathPix* APIs, you need to set up your API keys. Follow these steps:
 
@@ -185,24 +167,22 @@ To enable the functionality of the **Practise Exam** scraper that utilizes *Open
 
    *this code of OpenAI will automatically read the `OPENAI_API_KEY` from your environment.*
 
-## Usage
+### Usage
 
 This guide will help you use the Jupyter Notebooks `quiz_scraper.ipynb`/`practise_exam_scraper.ipynb` to read URLs from an input file and process content extraction.
 
-### Step 1: Open the Jupyter Notebook
+#### **Step 1:** Open the Jupyter Notebook
+   - **Launch Jupyter Notebook**
 
-- **Launch Jupyter Notebook**
+      Open your terminal or command prompt and navigate to the directory containing the `quiz_scraper.ipynb`/`practise_exam_scraper.ipynb` notebooks. Start Jupyter Notebook by running:
+      ```bash
+      jupyter notebook
+      ```
+   - **Open the Notebook**
 
-   Open your terminal or command prompt and navigate to the directory containing the `quiz_scraper.ipynb`/`practise_exam_scraper.ipynb` notebooks. Start Jupyter Notebook by running:
-   ```bash
-   jupyter notebook
-   ```
-- **Open the Notebook**
-
-   In the Jupyter interface, click on `quiz_scraper.ipynb` or `practise_exam_scraper.ipynb` to open it.
-   
-### Step 2: Prepare the Input File
-
+      In the Jupyter interface, click on `quiz_scraper.ipynb` or `practise_exam_scraper.ipynb` to open it.
+      
+#### **Step 2:** Prepare the Input File
    - Ensure you have a file named `input_urls.txt` in the same directory as your notebooks. This file should contain the URLs you want to scrape, with each URL on a new line.
 
    - **Example of `input_urls.txt`**
@@ -218,16 +198,31 @@ This guide will help you use the Jupyter Notebooks `quiz_scraper.ipynb`/`practis
       https://www.educationquizzes.com/ks1/english/reading-fairy-tales-characteristics/ 
       https://www.educationquizzes.com/ks1/english/reading-fairy-tales-characters/  
       ```
-### Step 3: Run the Notebook
-- **Execute All Cells:** Finally, run all the cells and the **Execution** code block in the notebook to complete the scraping process and analyze the results.
-- Code snippets and Expected outputs:
-   - **Quizzes**
-      ![image](https://github.com/user-attachments/assets/71919027-86e8-4007-a26d-337090e82b5a)
-   - **Practise Exams**
-     ![image](https://github.com/user-attachments/assets/d77d6ca3-6661-4c07-84f9-de8643664862)
 
-## Deactivating the Virtual Environment
+#### **Step 3:** Run the Notebook
+   - **Execute All Cells:** Finally, run all the cells and the **Execution** code block in the notebook to complete the scraping process and analyze the results.
+   - Code snippets and Expected outputs:
+      - **Quizzes**
+         ![image](https://github.com/user-attachments/assets/71919027-86e8-4007-a26d-337090e82b5a)
+      - **Practise Exams**
+      ![image](https://github.com/user-attachments/assets/d77d6ca3-6661-4c07-84f9-de8643664862)
+
+### Deactivating the Virtual Environment
 - When you're done working on the project, you can deactivate the virtual environment by running:
    ```bash
    deactivate
    ```
+---
+
+## Contributing
+   Here's how you can contribute:
+
+   1. Fork the repository
+   2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+   3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+   4. Push to the branch (`git push origin feature/AmazingFeature`)
+   5. Open a Pull Request
+
+   Ensure your code adheres to the coding standards and include appropriate tests for new features.
+
+   For major changes, please open an issue first to discuss what you would like to change.
