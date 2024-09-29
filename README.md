@@ -22,7 +22,7 @@ This repository contains a Python tool designed to automatically scrape contents
 - **Process**: Uses OCR through MathPix APIs to convert PDFs into LaTeX format. The extracted content is then injected into LLM models using OpenAI APIs.
 - **Dependencies**: 
   - Required APIs: `Mathpix`, `OpenAI`
-- **Documentation**: [Practise Exam Scraper Notebook Documentation](https://github.com/ThongLai/Learnspot-content-scraping/blob/main/practise_exam_scraper/practise_exam.md)
+- **Documentation**: [Practise Exam Scraper Notebook Documentation](https://github.com/ThongLai/Learnspot-content-scraping/blob/main/practise_exam_scraper/practise_exam_scraper.md)
 
 
 ### Data Attributes
