@@ -1,3 +1,10 @@
 .ipynb_checkpoints/
 quiz_scraper_env/
 practise_exam_scraper_env/
+
+# Excel files
+*.xlsx 
+*.xls
+
+# API credentials
+ONEDRIVE_API.json

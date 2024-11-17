@@ -3,6 +3,18 @@
 ## Description
 This repository contains a Python tool designed to automatically scrape contents for students from Year 1 to Year 10-11, 11+, and Year 12-13 (A-levels). The scraper extracts quizzes and practise exams from various educational websites using Selenium, Beautiful Soup, LLM models (OpenAI API) and OCR (MathPix API). 
 
+## Change Log
+v1.1.1 - 2024-11-12
+- Remove format of include both text and images in `Options` and `Answer`. New format example file: [geometry ks3 maths.xlsx](https://mujahidrashid-my.sharepoint.com/:x:/g/personal/shargel_tariq_learnspot_co_uk/Efcccnyt2-pBheiLbYipflEBztpPNhgsRxnGNF24-uMfmA?e=DINWC2)
+- Update `requirements.txt`: Now contains lesser library identifiers which is easier to install library.
+- Update `.gitignore`: Excel files produced by scraper will be ignored when commit
+
+v1.1.0 - 2024-11-12
+- Implemented changes based on the [new format proposal](https://docs.google.com/document/d/1j3eZygtLekdJfdZIvB60yKXwzuPoZw8zx4ZhbuWQYeA/edit?usp=sharing):
+  - Change `Type of question` format indicators.
+   - Updated format for adding multiple values in a single column are now format these values as JavaScript arrays `["item 1", "item 2", "item 3", "item 4"]`.
+
+
 ### Quizzes
 - **Purpose**: Extract quiz-type questions from supported online sources.
 - **Supported Websites**:
@@ -57,12 +69,25 @@ This repository contains a Python tool designed to automatically scrape contents
 ## Installation Instructions
 This README will guide you through the process of setting up the project, creating a virtual environment, and installing the necessary dependencies using `requirements.txt`.
 
-- [Prerequisites](#prerequisites)
-- [Setting Up the Project](#setting-up-the-project)
-- [Creating a Virtual Environment](#creating-a-virtual-environment)
-- [Installing Dependencies](#installing-dependencies)
-- [Usage](#usage)
-- [Deactivating the Virtual Environment](#deactivating-the-virtual-environment)
+- [Learnspot Content Scraping](#learnspot-content-scraping)
+  - [Description](#description)
+  - [Change Log](#change-log)
+    - [Quizzes](#quizzes)
+    - [Practise Exam](#practise-exam)
+    - [Data Attributes](#data-attributes)
+    - [Features](#features)
+  - [Installation Instructions](#installation-instructions)
+    - [Prerequisites](#prerequisites)
+    - [Setting Up the Project](#setting-up-the-project)
+    - [Creating a Virtual Environment](#creating-a-virtual-environment)
+    - [Installing Dependencies](#installing-dependencies)
+    - [Adding API Keys for OpenAI and MathPix (For **Practise Exam**)](#adding-api-keys-for-openai-and-mathpix-for-practise-exam)
+    - [Usage](#usage)
+      - [**Step 1:** Open the Jupyter Notebook](#step-1-open-the-jupyter-notebook)
+      - [**Step 2:** Prepare the Input File](#step-2-prepare-the-input-file)
+      - [**Step 3:** Run the Notebook](#step-3-run-the-notebook)
+    - [Deactivating the Virtual Environment](#deactivating-the-virtual-environment)
+  - [Contributing](#contributing)
 
 ### Prerequisites
 Before you begin, ensure you have the following installed on your machine:
@@ -226,3 +251,4 @@ This guide will help you use the Jupyter Notebooks `quiz_scraper.ipynb`/`practis
    Ensure your code adheres to the coding standards and include appropriate tests for new features.
 
    For major changes, please open an issue first to discuss what you would like to change.
+
