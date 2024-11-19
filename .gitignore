@@ -1,10 +1,13 @@
 .ipynb_checkpoints/
+
+# virtual environments
 quiz_scraper_env/
 practise_exam_scraper_env/
+.venv*
 
 # Excel files
 *.xlsx 
 *.xls
 
-# API credentials
-ONEDRIVE_API.json
+# API credentials files (for testing, should store API Keys in Environment Variables)
+azure_credentials.json
