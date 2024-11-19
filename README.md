@@ -6,8 +6,8 @@ This repository contains a Python tool designed to automatically scrape contents
 ## Change Log
 v1.1.2 - 19/11/2024
 - New:
-  - The [`.beta`](https://github.com/ThongLai/Learnspot-content-scraping/tree/main/beta/) directory now includes new files for testing.
-  - Testing on the [Azure Portal](https://portal.azure.com) and [Microsoft Graph APIs](https://learn.microsoft.com/en-us/graph/overview) located at [`beta/.onedrive_access_apis_testing`](https://github.com/ThongLai/Learnspot-content-scraping/tree/main/beta/.onedrive_access_apis_testing). These tools facilitate file manipulation in OneDrive, specifically for accessing the [LearnSpot Content Folder](https://mujahidrashid-my.sharepoint.com/personal/shargel_tariq_learnspot_co_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fshargel_tariq_learnspot_co_uk%2FDocuments%2FLearnSpot%20Content&ga=1).
+  - The [`.beta`](https://github.com/ThongLai/Learnspot-content-scraping/tree/main/.beta/) directory now includes new files for testing.
+  - Testing on the [Azure Portal](https://portal.azure.com) and [Microsoft Graph APIs](https://learn.microsoft.com/en-us/graph/overview) located at [`.beta/.onedrive_access_apis_testing`](https://github.com/ThongLai/Learnspot-content-scraping/tree/main/.beta/.onedrive_access_apis_testing). These tools facilitate file manipulation in OneDrive, specifically for accessing the [LearnSpot Content Folder](https://mujahidrashid-my.sharepoint.com/personal/shargel_tariq_learnspot_co_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fshargel_tariq_learnspot_co_uk%2FDocuments%2FLearnSpot%20Content&ga=1).
 
 v1.1.1 - 12/11/2024
 - Changed: 
