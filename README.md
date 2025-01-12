@@ -80,7 +80,7 @@ This README will guide you through the process of setting up the project, creati
 
 ### Prerequisites
 Before you begin, ensure you have the following installed on your machine:
-- **Python 3.x**
+- Lastest version of supported Python: [**Python 3.12.8**](https://www.python.org/downloads/release/python-3128/)
 - **pip** (Python package installer)
 
 ### Setting Up the Project
