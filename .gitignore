@@ -4,6 +4,8 @@
 quiz_scraper_env/
 practise_exam_scraper_env/
 .venv*
+.quiz_scraper_env/
+.practise_exam_scraper_env/
 
 # Excel files
 *.xlsx 

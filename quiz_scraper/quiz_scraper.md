@@ -2,15 +2,29 @@
 
 This document serves as a comprehensive guide for the notebook [quiz_scraper.ipynb](https://github.com/ThongLai/Learnspot-content-scraping/blob/main/quiz_scraper/quiz_scraper.ipynb)
 
+
 ## Table of Contents
+<!-- no toc -->
 - [Required Packages](#required-packages)
 - [Utility Functions](#utility-functions)
-    - [get_urls_from_file](#get_urls_from_file)
+    - [get_urls_from_file *(deprecated)*](#get_urls_from_file-deprecated)
     - [saveJSON](#savejson)
+    - [loadJSON](#loadjson)
     - [saveSoup](#savesoup)
     - [save_excel](#save_excel)
-    - [close_driver](#close_driver)
+    - [load_excel](#load_excel)
     - [open_driver](#open_driver)
+    - [close_driver](#close_driver)
+    - [javascript_array](#javascript_array)
+    - [select_sub_topic](#select_sub_topic)
+- [*Azure MS-Graph* APIs](#azure-ms-graph-apis)
+    - [create_GraphServiceClient](#create_graphserviceclient)
+    - [get_item](#get_item)
+    - [delete_item](#delete_item)
+    - [create_folder](#create_folder)
+    - [upload_file](#upload_file)
+    - [upload_folder_from_disk](#upload_folder_from_disk)
+    - [process_and_upload_all_topics](#process_and_upload_all_topics)
 - [BBC Bitesize - Individual Topics Quizzes](#bbc-bitesize---individual-topics-quizzes)
 - [BBC Bitesize - Exam-Style Quizzes](#bbc-bitesize---exam-style-quizzes)
 - [BBC Bitesize - Test questions](#bbc-bitesize---test-questions)
@@ -24,21 +38,22 @@ This document serves as a comprehensive guide for the notebook [quiz_scraper.ipy
 
 ## Required Packages
 The following packages are required for this project:
-1. **BeautifulSoup** (from bs4): Used for parsing HTML and XML documents.
-2. **selenium**: Used for web browser automation.
-3. **pandas**: Used for data manipulation and analysis.
-4. **xlsxwriter**: Used for creating Excel XLSX files.
-5. **requests**: Used for making HTTP requests.
-6. **json**: Used for working with JSON data.
-7. **re**: Provides support for regular expressions.
-8. **time**: Provides various time-related functions.
+1. **beautifulsoup4 v4.12.3** (from bs4): Used for parsing HTML and XML documents.
+2. **selenium v4.27.1**: Used for web browser automation.
+3. **pandas v2.2.3**: Used for data manipulation and analysis.
+4. **xlsxwriter v3.2.0**: Used for creating Excel XLSX files.
+5. **requests v2.32.3**: Used for making HTTP requests.
+6. **msgraph-sdk v1.16.0** ([Microsoft Graph SDK](https://learn.microsoft.com/en-us/graph/overview)): Used for communicating with [Azure APIs](https://portal.azure.com) (for  automatically uploading files/folders to OneDrive).
+7. **json**: Used for working with JSON data.
+8. **re**: Provides support for regular expressions.
+9. **time**: Provides various time-related functions.
 
 ## Utility Functions
 
 This section documents the utility functions used in the web scraping project. These functions handle various tasks such as reading URLs from a file, saving data to JSON and Excel files, and managing the web driver.
 
 ---
-### get_urls_from_file
+### get_urls_from_file *(deprecated)*
 This function reads **URLs** and **pre-defined attributes** from a text file.
 
 - Parameters: `filename` (str, optional): The name of the input file. Default is 'input_urls.txt'.
@@ -64,6 +79,16 @@ This function saves data to a **JSON file**, useful for testing and debugging.
 3. Ensures non-ASCII characters are preserved and adds indentation for readability.
 ---
 
+### loadJSON
+This function loads data from a **JSON file** and returns its contents as a Python object. Specifically here is the content file [`input_urls.json`](https://github.com/ThongLai/Learnspot-content-scraping/blob/main/quiz_scraper/input_urls.json).
+
+#### Parameters
+- `name` (str, optional): The name of the JSON file to load. Default is 'data.json'.
+
+#### Returns
+- The loaded JSON data as a Python object.
+---
+
 ### saveSoup
 This function saves a **BeautifulSoup object** to an HTML file, useful for testing and debugging.
 
@@ -77,25 +102,28 @@ This function saves a **BeautifulSoup object** to an HTML file, useful for testi
 ---
 
 ### save_excel
-This function saves **quiz data** to an Excel file with **data validation** for specific columns.
+This function saves quiz data to an **Excel file** with data validation for specific columns.
 
-- Parameters:
-  - `output_file` (str): The name of the output Excel file.
-  - `quiz_data` (list): The quiz data to be saved.
+#### Parameters
+- `output_file` (str): Name of the Excel file to be created.
+- `quiz_data` (list): List of dictionaries containing quiz information.
+- `output_folder` (str, optional): Directory where the file will be saved. Default is '.output'.
 
-#### Behavior:
-1. Creates a pandas DataFrame from the quiz data.
-2. Writes the DataFrame to an Excel file.
-3. Applies data validation to the `Difficulty` and `Type of question` columns.
-4. Prints the number of quiz items saved and the output file name.
+#### Behavior
+- Creates Excel file with quiz data
+- Implements dropdown validation for 'Difficulty' column with options: easy, medium, hard
+- Implements dropdown validation for 'Type of question' column with predefined question types
 ---
 
-### close_driver
-This function closes the **web driver**.
+### load_excel
+This function reads the binary content of an **Excel file**, useful for uploading to cloud storage.
 
-#### Behavior:
-1. Attempts to close the global `driver` object.
-2. Suppresses any exceptions that may occur during the closing process.
+#### Parameters
+- `file_path` (str): Path to the Excel file.
+- `folder` (str, optional): Directory containing the file. Default is '.output'.
+
+#### Returns
+- Binary content of the Excel file.
 ---
 
 ### open_driver
@@ -113,6 +141,135 @@ This function initializes and opens a new **web driver** instance.
 Note: This function uses the global `driver` variable, which is be declared outside the function scope.
 
 ---
+
+### close_driver
+This function closes the **web driver**.
+
+#### Behavior:
+1. Attempts to close the global `driver` object.
+2. Suppresses any exceptions that may occur during the closing process.
+---
+
+### javascript_array
+This function converts a Python array into **JavaScript array notation**.
+
+#### Parameters
+- `array` (list): The Python array to convert.
+
+#### Returns
+- String representation of the array in JavaScript format.
+- Single items are returned without array brackets.
+
+---
+
+### select_sub_topic
+This function extracts a specific subtopic from a nested JSON structure containing content ([`input_urls.json`](https://github.com/ThongLai/Learnspot-content-scraping/blob/main/quiz_scraper/input_urls.txt).).
+
+#### Parameters
+- `json_data` (dict): The complete JSON data structure.
+- `key_stage` (str): The key stage identifier.
+- `subject` (str): The subject name.
+- `year_group` (str): The year group identifier.
+- `sub_topic` (str): The subtopic to extract.
+
+#### Returns
+- A new dictionary containing only the selected subtopic's data, maintaining the original hierarchy.
+
+---
+
+## *Azure MS-Graph* APIs
+This section documents the Azure Microsoft Graph API wrapper functions used for OneDrive operations. These functions handle authentication and file management tasks such as creating, uploading, and deleting files/folders.
+
+---
+### create_GraphServiceClient
+This function creates a **GraphServiceClient** instance for authenticating with Microsoft Graph API.
+
+#### Parameters
+- `azure_credentials` (str, optional): Path to JSON file containing Azure credentials. Default is 'azure_credentials.json'.
+
+#### Returns
+- GraphServiceClient instance configured with the specified credentials and scopes.
+
+#### Behavior
+1. Loads credentials from JSON file
+2. Sets up authentication with DeviceCodeCredential
+3. Configures access scopes for file operations
+---
+
+### get_item
+This function retrieves an **item** from OneDrive by its ID or name.
+
+#### Parameters
+- `ID` (str, optional): The item's unique identifier
+- `name` (str, optional): The item's name
+- `parent_folder_id` (str, optional): ID of the parent folder. Default is content_folder_id.
+
+#### Returns
+- DriveItem object if found, False otherwise
+---
+
+### delete_item
+This function deletes an **item** from OneDrive.
+
+#### Parameters
+- `ID` (str): The unique identifier of the item to delete
+
+#### Returns
+- Boolean indicating success (True) or failure (False)
+---
+
+### create_folder
+This function creates a new **folder** in OneDrive.
+
+#### Parameters
+- `folder_name` (str): Name of the folder to create
+- `parent_folder_id` (str, optional): ID of the parent folder. Default is content_folder_id.
+- `force_delete` (bool, optional): If True, deletes existing folder with same name. Default is False.
+
+#### Returns
+- DriveItem object representing the created folder
+---
+
+### upload_file
+This function uploads a **file** to OneDrive.
+
+#### Parameters
+- `file_name` (str): Name of the file to upload
+- `file_content` (bytes): Binary content of the file
+- `folder_id` (str, optional): ID of the destination folder. Default is content_folder_id.
+
+#### Returns
+- DriveItem object representing the uploaded file
+---
+
+### upload_folder_from_disk
+This function uploads all files from a local **folder** to OneDrive.
+
+#### Parameters
+- `folder_path` (str): Path to local folder containing files to upload
+- `parent_folder_id` (str, optional): OneDrive folder ID where files will be uploaded. Default is content_folder_id.
+- `files_only` (bool, optional): If True, uploads files without creating a new folder. Default is False.
+
+#### Returns
+- DriveItem object representing the parent folder
+---
+
+### process_and_upload_all_topics
+This function processes educational content from JSON data and uploads to OneDrive.
+
+#### Parameters
+- `json_data` (dict): Nested dictionary containing educational content
+- `drive_id` (str): The ID of the OneDrive instance
+- `output_folder_id` (str): The target folder ID in OneDrive
+
+#### Behavior
+1. Retrieves and validates the output folder
+2. Iterates through the nested JSON structure
+3. For each topic with valid URLs:
+   - Extracts quiz data
+   - Saves to Excel file
+   - Uploads to OneDrive
+
 
 ## BBC Bitesize - Individual Topics Quizzes
 For <b>BBC</b> links that contains the embeded links format: `https://www.riddle.com/embed/a/[a-zA-Z0-9]*[a-zA-Z]+`

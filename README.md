@@ -3,6 +3,7 @@
 ## Description
 This repository contains a Python tool designed to automatically scrape contents for students from Year 1 to Year 10-11, 11+, and Year 12-13 (A-levels). The scraper extracts quizzes and practise exams from various educational websites using Selenium, Beautiful Soup, LLM models (OpenAI API) and OCR (MathPix API). 
 
+- [Content Folder](https://mujahidrashid-my.sharepoint.com/personal/shargel_tariq_learnspot_co_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fshargel_tariq_learnspot_co_uk%2FDocuments%2FLearnSpot%20Content)
 - [Changelog](./CHANGELOG.md)
 
 ### Quizzes
@@ -80,7 +81,7 @@ This README will guide you through the process of setting up the project, creati
 
 ### Prerequisites
 Before you begin, ensure you have the following installed on your machine:
-- **Python 3.x**
+- Lastest version of supported Python: [**Python 3.12.8**](https://www.python.org/downloads/release/python-3128/)
 - **pip** (Python package installer)
 
 ### Setting Up the Project
@@ -105,25 +106,25 @@ To avoid conflicts between packages and maintain a clean workspace, it's recomme
 
 1. **Create the Virtual Environment**
 
-   Run the following command to create a virtual environment named `quiz_scraper_env`/`practise_exam_scraper_env`:
+   Run the following command to create a virtual environment named `.quiz_scraper_env`/`.practise_exam_scraper_env`:
       ```bash
-      [Quizzes] python -m venv quiz_scraper_env
-      [Practise Exams] python -m venv practise_exam_scraper_env
+      [Quizzes] python -m venv .quiz_scraper_env
+      [Practise Exams] python -m venv .practise_exam_scraper_env
       ```
 
 2. **Activate the Virtual Environment**
    
    On Windows:
       ```bash 
-      [Quizzes] quiz_scraper_env\Scripts\activate
-      [Practise Exams] practise_exam_scraper_env\Scripts\activate
+      [Quizzes] .quiz_scraper_env\Scripts\activate
+      [Practise Exams] .practise_exam_scraper_env\Scripts\activate
       ```
    On macOS and Linux:
       ```bash 
-      [Quizzes] source quiz_scraper_env/bin/activate
-      [Practise Exams] source practise_exam_scraper_env/bin/activate
+      [Quizzes] source .quiz_scraper_env/bin/activate
+      [Practise Exams] source .practise_exam_scraper_env/bin/activate
       ```
-   After activation, you should see `(quiz_scraper_env)`/`(practise_exam_scraper_env)` at the beginning of your command prompt. 
+   After activation, you should see `(.quiz_scraper_env)`/`(.practise_exam_scraper_env)` at the beginning of your command prompt. 
 
 ### Installing Dependencies
 
@@ -131,7 +132,7 @@ With the virtual environment activated, you can now install the required depende
 
 1. **Install Dependencies from `requirements.txt`**
    
-   The `requirements.txt` is in `quiz_scraper` or`practise_exam_scraper_env` directory, ensure you are currently in that working directory.
+   The `requirements.txt` is in `quiz_scraper` or`practise_exam_scraper` directory, ensure you are currently in that working directory.
 
    Use the following command to install all the necessary packages:
    ```bash
@@ -144,8 +145,8 @@ With the virtual environment activated, you can now install the required depende
    
    Run the following command:
    ```bash
-   [Quizzes] python -m ipykernel install --name=quiz_scraper_env
-   [Practise Exams] python -m ipykernel install --name=practise_exam_scraper_env
+   [Quizzes] python -m ipykernel install --name=.quiz_scraper_env
+   [Practise Exams] python -m ipykernel install --name=.practise_exam_scraper_env
    ```
 
    To verify that the kernel has been added successfully, you can list all available Jupyter kernels with:

@@ -3,6 +3,7 @@
 This document serves as a comprehensive guide for the notebook [practise_exam_scraper.ipynb](https://github.com/ThongLai/Learnspot-content-scraping/blob/main/practise_exam_scraper/practise_exam_scraper.ipynb)
 
 ## Table of Contents
+<!-- no toc -->
 - [Required Packages](#required-packages)
 - [Utility Functions](#utility-functions)
     - [get_pdf_embed_links](#get_pdf_embed_links)
@@ -27,16 +28,17 @@ This document serves as a comprehensive guide for the notebook [practise_exam_sc
 
 ## Required Packages
 The following packages are required for this project:
-1. **openai**: The official OpenAI package used to interact with OpenAI APIs.
-2. **tiktoken**: Provides utilities to manage tokenization for OpenAI models.
-3. **pandas**: Used for data manipulation and analysis.
-4. **xlsxwriter**: Used for creating Excel XLSX files.
-5. **requests**: Used for making HTTP requests.
-6. **urllib.parse**: Used for parsing URLs into their components.
-7. **os**: Provides functions for interacting with the operating system.
-8. **json**: Used for working with JSON data.
-9. **re**: Provides support for regular expressions.
-10. **time**: Provides various time-related functions.
+1. **openai v1.59.6**: The official OpenAI package used to interact with OpenAI APIs.
+2. **tiktoken v0.8.0**: Provides utilities to manage tokenization for OpenAI models.
+3. **pandas v2.2.3**: Used for data manipulation and analysis.
+4. **xlsxwriter v3.2.0**: Used for creating Excel XLSX files.
+5. **requests v2.32.3**: Used for making HTTP requests.
+6. **msgraph-sdk v1.16.0** ([Microsoft Graph SDK](https://learn.microsoft.com/en-us/graph/overview)): Used for communicating with [Azure APIs](https://portal.azure.com) (for  automatically uploading files/folders to OneDrive).
+7. **urllib.parse**: Used for parsing URLs into their components.
+8. **os**: Provides functions for interacting with the operating system.
+9. **json**: Used for working with JSON data.
+10. **re**: Provides support for regular expressions.
+11. **time**: Provides various time-related functions.
 ---
 
 ## Utility Functions
@@ -94,18 +96,19 @@ This function ensures that LaTeX delimiters in a string are correctly paired.
 ---
 
 ### save_excel
-This function saves data to an Excel file with data validation.
+This function saves practice data to an **Excel file** with data validation for specific columns.
 
-- **Parameters**: 
-  - `practise_data` (list): The data to be saved in the Excel format.
-  - `output_file` (str, optional): The name of the output Excel file. Default is "file.xlsx".
+#### Parameters
+- `output_file` (str): Name of the Excel file to be created
+- `practise_data` (list): List of dictionaries containing practice question information
+- `output_folder` (str, optional): Directory where the file will be saved. Defaults to '.output'
 
-#### Behavior:
-1. Creates a DataFrame from the given data and adds relevant metadata (Year Group, Subject, Sub-Topic, etc.).
-2. Calls `fix_latex_delimiters` for specified columns to ensure LaTeX is formatted correctly.
-3. Saves the DataFrame to an Excel file.
-4. Applies data validation to the 'Difficulty' column.
-5. Prints a success message indicating the number of practise exam data entries saved.
+#### Behavior
+- Creates DataFrame and adds standard columns (Year Group, Subject, etc.)
+- Processes LaTeX delimiters in text fields
+- Adds dropdown validation for 'Difficulty' (easy/medium/hard)
+- Saves to Excel file and displays completion message
+
 ---
 
 ### saveJSON
